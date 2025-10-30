@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Script to check git status and auto commit any changes to Github
+
 #Dir with git repo 
 REPO="$HOME/.itgmania/Save"
 
