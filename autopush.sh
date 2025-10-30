@@ -11,7 +11,6 @@ if git status --porcelain | grep -q .; then
 	git commit -m "Auto backup: $(date '+%Y-%m-%d')"
 	git push --force
 	echo "finished backing up itgmania"
-fi
 
 else 
 	echo "no changes"
