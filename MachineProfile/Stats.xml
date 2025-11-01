@@ -18,7 +18,7 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>177</TotalSessions>
+<TotalSessions>187</TotalSessions>
 <TotalSessionSeconds>14278</TotalSessionSeconds>
 <TotalGameplaySeconds>8577</TotalGameplaySeconds>
 <TotalCaloriesBurned>2938.761719</TotalCaloriesBurned>
@@ -30,7 +30,7 @@
 <TotalDancePoints>199155</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>19</NumToasties>
+<NumToasties>20</NumToasties>
 <TotalTapsAndHolds>39143</TotalTapsAndHolds>
 <TotalJumps>1804</TotalJumps>
 <TotalHolds>3696</TotalHolds>
@@ -2408,8 +2408,8 @@
 <Song Dir='Songs/ITL Online 2025/[10] Permutate (SX) [Exschwasion]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2025-10-27</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2025-11-01</LastPlayed>
 <HighGrade>Tier04</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -3314,6 +3314,14 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2025/[11] Right Away (SX) [Benpai]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2025-11-01</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/ITL Online 2025/[11] Shocking (SX) [sorae]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -3560,8 +3568,8 @@
 <Song Dir='Songs/ITL Online 2025/[11] Way of the Warrior (SX) [mute]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>3</NumTimesPlayed>
-<LastPlayed>2025-10-26</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2025-11-01</LastPlayed>
 <HighGrade>Tier07</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -3822,6 +3830,14 @@
 <HighScoreList>
 <NumTimesPlayed>3</NumTimesPlayed>
 <LastPlayed>2025-10-24</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/ITL Online 2025/[12] SCHWARZSCHILD FIELD (SH) [mute]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2025-11-01</LastPlayed>
 </HighScoreList>
 </Steps>
 </Song>
