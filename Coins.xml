@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <Bookkeeping>
-	<Data/>
+	<Data>
+		<Coins Day='304' Hour='20' Year='2025'>1</Coins>
+	</Data>
 </Bookkeeping>
