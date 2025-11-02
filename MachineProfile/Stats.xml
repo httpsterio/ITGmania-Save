@@ -18,47 +18,47 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>191</TotalSessions>
-<TotalSessionSeconds>21608</TotalSessionSeconds>
-<TotalGameplaySeconds>11657</TotalGameplaySeconds>
-<TotalCaloriesBurned>4200.906250</TotalCaloriesBurned>
+<TotalSessions>193</TotalSessions>
+<TotalSessionSeconds>21780</TotalSessionSeconds>
+<TotalGameplaySeconds>11803</TotalGameplaySeconds>
+<TotalCaloriesBurned>4244.978027</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
-<LastPlayedDate>2025-11-01</LastPlayedDate>
-<TotalDancePoints>275998</TotalDancePoints>
+<LastPlayedDate>2025-11-02</LastPlayedDate>
+<TotalDancePoints>275926</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>28</NumToasties>
-<TotalTapsAndHolds>54368</TotalTapsAndHolds>
-<TotalJumps>2565</TotalJumps>
-<TotalHolds>5008</TotalHolds>
-<TotalRolls>378</TotalRolls>
-<TotalMines>1572</TotalMines>
+<NumToasties>30</NumToasties>
+<TotalTapsAndHolds>55139</TotalTapsAndHolds>
+<TotalJumps>2583</TotalJumps>
+<TotalHolds>5068</TotalHolds>
+<TotalRolls>389</TotalRolls>
+<TotalMines>1573</TotalMines>
 <TotalHands>139</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>92</Regular>
+<Regular>93</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>92</Style>
+<Style Game='dance' Style='single'>93</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Challenge>92</Challenge>
+<Challenge>93</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter7>2</Meter7>
 <Meter8>3</Meter8>
 <Meter9>16</Meter9>
 <Meter10>39</Meter10>
-<Meter11>26</Meter11>
+<Meter11>27</Meter11>
 <Meter12>5</Meter12>
 <Meter14>1</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>92</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>93</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
 <Regular>85</Regular>
 </NumStagesPassedByPlayMode>
@@ -4181,8 +4181,8 @@
 <Song Dir='Songs/ITL Online 2025/[11] No Talking (SX) [omgukk]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>2</NumTimesPlayed>
-<LastPlayed>2025-11-01</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2025-11-02</LastPlayed>
 <HighGrade>Tier04</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -5252,11 +5252,12 @@
 <CaloriesBurned Date='2025-10-26'>776.463989</CaloriesBurned>
 <CaloriesBurned Date='2025-10-27'>1264.625366</CaloriesBurned>
 <CaloriesBurned Date='2025-11-01'>1262.144897</CaloriesBurned>
+<CaloriesBurned Date='2025-11-02'>44.071842</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
-<Today>1</Today>
-<Yesterday>0</Yesterday>
+<Today>0</Today>
+<Yesterday>1</Yesterday>
 <Day2Ago>0</Day2Ago>
 <Day3Ago>0</Day3Ago>
 <Day4Ago>0</Day4Ago>
