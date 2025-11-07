@@ -18,53 +18,53 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>195</TotalSessions>
-<TotalSessionSeconds>24708</TotalSessionSeconds>
-<TotalGameplaySeconds>13902</TotalGameplaySeconds>
-<TotalCaloriesBurned>5019.499023</TotalCaloriesBurned>
+<TotalSessions>196</TotalSessions>
+<TotalSessionSeconds>24964</TotalSessionSeconds>
+<TotalGameplaySeconds>14047</TotalGameplaySeconds>
+<TotalCaloriesBurned>5077.701172</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
 <LastPlayedDate>2025-11-05</LastPlayedDate>
-<TotalDancePoints>326824</TotalDancePoints>
+<TotalDancePoints>331050</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>31</NumToasties>
-<TotalTapsAndHolds>64921</TotalTapsAndHolds>
-<TotalJumps>3047</TotalJumps>
-<TotalHolds>6053</TotalHolds>
-<TotalRolls>497</TotalRolls>
-<TotalMines>1979</TotalMines>
+<NumToasties>32</NumToasties>
+<TotalTapsAndHolds>65711</TotalTapsAndHolds>
+<TotalJumps>3065</TotalJumps>
+<TotalHolds>6116</TotalHolds>
+<TotalRolls>508</TotalRolls>
+<TotalMines>1980</TotalMines>
 <TotalHands>145</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>109</Regular>
+<Regular>110</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>109</Style>
+<Style Game='dance' Style='single'>110</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Challenge>109</Challenge>
+<Challenge>110</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter7>2</Meter7>
 <Meter8>4</Meter8>
 <Meter9>18</Meter9>
 <Meter10>41</Meter10>
-<Meter11>38</Meter11>
+<Meter11>39</Meter11>
 <Meter12>5</Meter12>
 <Meter14>1</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>109</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>110</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>101</Regular>
+<Regular>102</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier03>11</Tier03>
-<Tier04>19</Tier04>
+<Tier04>20</Tier04>
 <Tier05>16</Tier05>
 <Tier06>15</Tier06>
 <Tier07>24</Tier07>
@@ -4686,9 +4686,59 @@
 <Song Dir='Songs/ITL Online 2025/[11] No Talking (SX) [omgukk]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>3</NumTimesPlayed>
-<LastPlayed>2025-11-02</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2025-11-05</LastPlayed>
 <HighGrade>Tier04</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier04</Grade>
+<Score>144</Score>
+<PercentDP>0.978200</PercentDP>
+<SurviveSeconds>145.893051</SurviveSeconds>
+<MaxCombo>808</MaxCombo>
+<StageAward>SingleDigitW3</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m670, 40% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-11-05 19:03:44</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>4</W3>
+<W2>82</W2>
+<W1>704</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>74</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.993812</Stream>
+<Voltage>0.999924</Voltage>
+<Air>0.944444</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.978241</Chaos>
+<Notes>808.000000</Notes>
+<TapsAndHolds>790</TapsAndHolds>
+<Jumps>18</Jumps>
+<Holds>63</Holds>
+<Mines>1</Mines>
+<Hands>0</Hands>
+<Rolls>11</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 <HighScore>
 <Name>HTTP</Name>
 <Grade>Tier04</Grade>
@@ -6153,7 +6203,7 @@
 <CaloriesBurned Date='2025-10-27'>1264.625366</CaloriesBurned>
 <CaloriesBurned Date='2025-11-01'>1262.144897</CaloriesBurned>
 <CaloriesBurned Date='2025-11-02'>44.071842</CaloriesBurned>
-<CaloriesBurned Date='2025-11-05'>774.520996</CaloriesBurned>
+<CaloriesBurned Date='2025-11-05'>832.722961</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>

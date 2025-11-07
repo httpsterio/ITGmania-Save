@@ -16,46 +16,46 @@
 <LastDifficulty>Challenge</LastDifficulty>
 <LastCourseDifficulty>Medium</LastCourseDifficulty>
 <LastStepsType>dance-single</LastStepsType>
-<Song Dir='Songs/ITL Online 2025/[11] take me higher (SX) [Scrypts]/'/>
+<Song Dir='Songs/ITL Online 2025/[11] No Talking (SX) [omgukk]/'/>
 <Course Path='Courses/Tampere 10th Dan.crs'/>
-<CurrentCombo>91</CurrentCombo>
+<CurrentCombo>808</CurrentCombo>
 <TotalSessions>67</TotalSessions>
-<TotalSessionSeconds>174819</TotalSessionSeconds>
-<TotalGameplaySeconds>107112</TotalGameplaySeconds>
-<TotalCaloriesBurned>28131.109375</TotalCaloriesBurned>
+<TotalSessionSeconds>175075</TotalSessionSeconds>
+<TotalGameplaySeconds>107257</TotalGameplaySeconds>
+<TotalCaloriesBurned>28189.310547</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
 <LastPlayedDate>2025-11-05</LastPlayedDate>
-<TotalDancePoints>2014772</TotalDancePoints>
+<TotalDancePoints>2018998</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>255</NumToasties>
-<TotalTapsAndHolds>392381</TotalTapsAndHolds>
-<TotalJumps>19680</TotalJumps>
-<TotalHolds>35331</TotalHolds>
-<TotalRolls>2908</TotalRolls>
-<TotalMines>9380</TotalMines>
+<NumToasties>256</NumToasties>
+<TotalTapsAndHolds>393171</TotalTapsAndHolds>
+<TotalJumps>19698</TotalJumps>
+<TotalHolds>35394</TotalHolds>
+<TotalRolls>2919</TotalRolls>
+<TotalMines>9381</TotalMines>
 <TotalHands>445</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers>
-<dance>NoHideLights, m650, Overhead</dance>
+<dance>NoHideLights, m670, Overhead</dance>
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>840</Regular>
+<Regular>841</Regular>
 <Nonstop>35</Nonstop>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>875</Style>
+<Style Game='dance' Style='single'>876</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
 <Beginner>12</Beginner>
 <Easy>11</Easy>
 <Medium>12</Medium>
 <Hard>155</Hard>
-<Challenge>685</Challenge>
+<Challenge>686</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>6</Meter1>
@@ -68,19 +68,19 @@
 <Meter8>210</Meter8>
 <Meter9>212</Meter9>
 <Meter10>128</Meter10>
-<Meter11>65</Meter11>
+<Meter11>66</Meter11>
 <Meter12>7</Meter12>
 <Meter14>1</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>875</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>876</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>812</Regular>
+<Regular>813</Regular>
 <Nonstop>9</Nonstop>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier02>35</Tier02>
 <Tier03>151</Tier03>
-<Tier04>227</Tier04>
+<Tier04>228</Tier04>
 <Tier05>111</Tier05>
 <Tier06>101</Tier06>
 <Tier07>87</Tier07>
@@ -26556,9 +26556,59 @@
 <Song Dir='Songs/ITL Online 2025/[11] No Talking (SX) [omgukk]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>3</NumTimesPlayed>
-<LastPlayed>2025-11-02</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2025-11-05</LastPlayed>
 <HighGrade>Tier04</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier04</Grade>
+<Score>144</Score>
+<PercentDP>0.978200</PercentDP>
+<SurviveSeconds>145.893051</SurviveSeconds>
+<MaxCombo>808</MaxCombo>
+<StageAward>SingleDigitW3</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m670, 40% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-11-05 19:03:44</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>4</W3>
+<W2>82</W2>
+<W1>704</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>74</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.993812</Stream>
+<Voltage>0.999924</Voltage>
+<Air>0.944444</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.978241</Chaos>
+<Notes>808.000000</Notes>
+<TapsAndHolds>790</TapsAndHolds>
+<Jumps>18</Jumps>
+<Holds>63</Holds>
+<Mines>1</Mines>
+<Hands>0</Hands>
+<Rolls>11</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 <HighScore>
 <Name>HTTP</Name>
 <Grade>Tier04</Grade>
@@ -40645,6 +40695,6 @@
 <CaloriesBurned Date='2025-10-27'>1264.625366</CaloriesBurned>
 <CaloriesBurned Date='2025-11-01'>1262.144897</CaloriesBurned>
 <CaloriesBurned Date='2025-11-02'>44.071842</CaloriesBurned>
-<CaloriesBurned Date='2025-11-05'>774.520996</CaloriesBurned>
+<CaloriesBurned Date='2025-11-05'>832.722961</CaloriesBurned>
 </CalorieData>
 </Stats>
