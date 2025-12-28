@@ -3294,6 +3294,33 @@
          "points" : 2222,
          "usedCmod" : false
       },
+      "7a9bb222b16a8640" : {
+         "clearType" : 1,
+         "date" : "2025-12-28",
+         "ex" : 8404,
+         "judgments" : {
+            "Holds" : 120,
+            "Mines" : 0,
+            "Miss" : 8,
+            "Rolls" : 15,
+            "W0" : 446,
+            "W1" : 158,
+            "W2" : 200,
+            "W3" : 33,
+            "W4" : 1,
+            "W5" : 0,
+            "totalHolds" : 120,
+            "totalMines" : 4,
+            "totalRolls" : 16,
+            "totalSteps" : 846
+         },
+         "maxPoints" : 5802,
+         "maxScoringPoints" : 3494,
+         "noCmod" : false,
+         "passingPoints" : 2308,
+         "points" : 3109,
+         "usedCmod" : false
+      },
       "7aaa26aea8b78ef2" : {
          "clearType" : 1,
          "date" : "2025-11-05",
@@ -6261,6 +6288,7 @@
       "/Songs/ITL Online 2025/[11] Further (SX) [mute]/" : "2812c6ab5612f97b",
       "/Songs/ITL Online 2025/[11] GALACTICAL (XMOD) (SX) [Maxx]/" : "0c21939547a22c0b",
       "/Songs/ITL Online 2025/[11] Get On The Floor (SX) [JOE2]/" : "845644e78606a8eb",
+      "/Songs/ITL Online 2025/[11] GoodNES (SX) [JNero]/" : "7a9bb222b16a8640",
       "/Songs/ITL Online 2025/[11] Gorgetech (SX) [sorae]/" : "acf4e4dcb4a77f6a",
       "/Songs/ITL Online 2025/[11] Groundhog (SX) [B. Abear]/" : "082d8489ecbd1767",
       "/Songs/ITL Online 2025/[11] Happy People Happy Music (SX) [mute]/" : "72cc115f514e7e09",
