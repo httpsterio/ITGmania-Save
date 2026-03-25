@@ -18,39 +18,39 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>208</TotalSessions>
-<TotalSessionSeconds>38966</TotalSessionSeconds>
-<TotalGameplaySeconds>21815</TotalGameplaySeconds>
-<TotalCaloriesBurned>7737.131348</TotalCaloriesBurned>
+<TotalSessions>212</TotalSessions>
+<TotalSessionSeconds>39316</TotalSessionSeconds>
+<TotalGameplaySeconds>22056</TotalGameplaySeconds>
+<TotalCaloriesBurned>7794.282227</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
 <LastPlayedDate>2026-03-25</LastPlayedDate>
-<TotalDancePoints>504040</TotalDancePoints>
+<TotalDancePoints>508214</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>50</NumToasties>
-<TotalTapsAndHolds>98924</TotalTapsAndHolds>
-<TotalJumps>4210</TotalJumps>
-<TotalHolds>9439</TotalHolds>
-<TotalRolls>828</TotalRolls>
+<NumToasties>52</NumToasties>
+<TotalTapsAndHolds>99715</TotalTapsAndHolds>
+<TotalJumps>4219</TotalJumps>
+<TotalHolds>9479</TotalHolds>
+<TotalRolls>836</TotalRolls>
 <TotalMines>2972</TotalMines>
 <TotalHands>214</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>173</Regular>
+<Regular>175</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>173</Style>
+<Style Game='dance' Style='single'>175</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Challenge>173</Challenge>
+<Challenge>175</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
-<Meter7>7</Meter7>
+<Meter7>9</Meter7>
 <Meter8>16</Meter8>
 <Meter9>38</Meter9>
 <Meter10>52</Meter10>
@@ -59,12 +59,12 @@
 <Meter13>1</Meter13>
 <Meter14>1</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>173</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>175</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>160</Regular>
+<Regular>162</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
-<Tier02>4</Tier02>
+<Tier02>6</Tier02>
 <Tier03>15</Tier03>
 <Tier04>43</Tier04>
 <Tier05>26</Tier05>
@@ -9411,8 +9411,118 @@
 <Song Dir='Songs/ITL Online 2026/[07] FLY (SE) [Maxx]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
+<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2026-03-25</LastPlayed>
+<HighGrade>Tier02</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier02</Grade>
+<Score>57</Score>
+<PercentDP>0.992800</PercentDP>
+<SurviveSeconds>112.619942</SurviveSeconds>
+<MaxCombo>394</MaxCombo>
+<StageAward>FullComboW2</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m590, 25% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-25 19:55:08</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>0</W3>
+<W2>15</W2>
+<W1>379</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>26</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>1.000000</Stream>
+<Voltage>0.999975</Voltage>
+<Air>0.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.992857</Chaos>
+<Notes>394.000000</Notes>
+<TapsAndHolds>394</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>18</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>8</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/ITL Online 2026/[07] XOXO (SX) [PUYO]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
 <NumTimesPlayed>1</NumTimesPlayed>
 <LastPlayed>2026-03-25</LastPlayed>
+<HighGrade>Tier02</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier02</Grade>
+<Score>42</Score>
+<PercentDP>0.997100</PercentDP>
+<SurviveSeconds>129.518387</SurviveSeconds>
+<MaxCombo>406</MaxCombo>
+<StageAward>SingleDigitW2</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m590, 25% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-25 19:57:48</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>0</W3>
+<W2>6</W2>
+<W1>391</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>22</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>1.000000</Stream>
+<Voltage>0.999970</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.997136</Chaos>
+<Notes>406.000000</Notes>
+<TapsAndHolds>397</TapsAndHolds>
+<Jumps>9</Jumps>
+<Holds>22</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 </HighScoreList>
 </Steps>
 </Song>
@@ -9451,6 +9561,7 @@
 <CaloriesBurned Date='2025-12-28'>443.029907</CaloriesBurned>
 <CaloriesBurned Date='2026-01-24'>464.862854</CaloriesBurned>
 <CaloriesBurned Date='2026-02-01'>436.094025</CaloriesBurned>
+<CaloriesBurned Date='2026-03-25'>57.150627</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>

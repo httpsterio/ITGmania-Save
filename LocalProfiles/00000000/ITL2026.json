@@ -1,0 +1,63 @@
+{
+   "hashMap" : {
+      "0092bb246527b2ec" : {
+         "clearType" : 3,
+         "date" : "2026-03-25",
+         "ex" : 9637,
+         "judgments" : {
+            "Holds" : 18,
+            "Mines" : 0,
+            "Miss" : 0,
+            "Rolls" : 8,
+            "W0" : 322,
+            "W1" : 57,
+            "W2" : 15,
+            "W3" : 0,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 18,
+            "totalMines" : 0,
+            "totalRolls" : 8,
+            "totalSteps" : 394
+         },
+         "maxPoints" : 1000,
+         "maxScoringPoints" : 600,
+         "noCmod" : false,
+         "passingPoints" : 400,
+         "points" : 829,
+         "usedCmod" : false
+      },
+      "ca022620bb1ab1d3" : {
+         "clearType" : 3,
+         "date" : "2026-03-25",
+         "ex" : 9787,
+         "judgments" : {
+            "Holds" : 22,
+            "Mines" : 0,
+            "Miss" : 0,
+            "Rolls" : 0,
+            "W0" : 349,
+            "W1" : 42,
+            "W2" : 6,
+            "W3" : 0,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 22,
+            "totalMines" : 0,
+            "totalRolls" : 0,
+            "totalSteps" : 397
+         },
+         "maxPoints" : 1072,
+         "maxScoringPoints" : 643,
+         "noCmod" : false,
+         "passingPoints" : 429,
+         "points" : 957,
+         "usedCmod" : false
+      }
+   },
+   "pathMap" : {
+      "/Songs/ITL Online 2026/[07] FLY (SE) [Maxx]/" : "0092bb246527b2ec",
+      "/Songs/ITL Online 2026/[07] XOXO (SX) [PUYO]/" : "ca022620bb1ab1d3"
+   },
+   "unlockFolders" : []
+}

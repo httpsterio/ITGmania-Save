@@ -16,46 +16,46 @@
 <LastDifficulty>Challenge</LastDifficulty>
 <LastCourseDifficulty>Medium</LastCourseDifficulty>
 <LastStepsType>dance-single</LastStepsType>
-<Song Dir='Songs/ITL Online 2025/[12] Turbocharger (SX) [Frondal]/'/>
+<Song Dir='Songs/ITL Online 2026/[07] XOXO (SX) [PUYO]/'/>
 <Course Path='Courses/Tampere 10th Dan.crs'/>
-<CurrentCombo>0</CurrentCombo>
-<TotalSessions>73</TotalSessions>
-<TotalSessionSeconds>189077</TotalSessionSeconds>
-<TotalGameplaySeconds>115025</TotalGameplaySeconds>
-<TotalCaloriesBurned>30848.744141</TotalCaloriesBurned>
+<CurrentCombo>406</CurrentCombo>
+<TotalSessions>74</TotalSessions>
+<TotalSessionSeconds>189427</TotalSessionSeconds>
+<TotalGameplaySeconds>115266</TotalGameplaySeconds>
+<TotalCaloriesBurned>30905.894531</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
-<LastPlayedDate>2026-02-01</LastPlayedDate>
-<TotalDancePoints>2191988</TotalDancePoints>
+<LastPlayedDate>2026-03-25</LastPlayedDate>
+<TotalDancePoints>2196162</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>274</NumToasties>
-<TotalTapsAndHolds>426384</TotalTapsAndHolds>
-<TotalJumps>20843</TotalJumps>
-<TotalHolds>38717</TotalHolds>
-<TotalRolls>3239</TotalRolls>
+<NumToasties>276</NumToasties>
+<TotalTapsAndHolds>427175</TotalTapsAndHolds>
+<TotalJumps>20852</TotalJumps>
+<TotalHolds>38757</TotalHolds>
+<TotalRolls>3247</TotalRolls>
 <TotalMines>10373</TotalMines>
 <TotalHands>514</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers>
-<dance>NoHideLights, m660, Overhead</dance>
+<dance>NoHideLights, m590, Overhead</dance>
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>904</Regular>
+<Regular>906</Regular>
 <Nonstop>35</Nonstop>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>939</Style>
+<Style Game='dance' Style='single'>941</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
 <Beginner>12</Beginner>
 <Easy>11</Easy>
 <Medium>12</Medium>
 <Hard>155</Hard>
-<Challenge>749</Challenge>
+<Challenge>751</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>6</Meter1>
@@ -64,7 +64,7 @@
 <Meter4>4</Meter4>
 <Meter5>1</Meter5>
 <Meter6>11</Meter6>
-<Meter7>225</Meter7>
+<Meter7>227</Meter7>
 <Meter8>222</Meter8>
 <Meter9>232</Meter9>
 <Meter10>139</Meter10>
@@ -73,13 +73,13 @@
 <Meter13>1</Meter13>
 <Meter14>1</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>939</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>941</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>871</Regular>
+<Regular>873</Regular>
 <Nonstop>9</Nonstop>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
-<Tier02>39</Tier02>
+<Tier02>41</Tier02>
 <Tier03>155</Tier03>
 <Tier04>251</Tier04>
 <Tier05>121</Tier05>
@@ -32318,6 +32318,124 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2026/[07] FLY (SE) [Maxx]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2026-03-25</LastPlayed>
+<HighGrade>Tier02</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier02</Grade>
+<Score>57</Score>
+<PercentDP>0.992800</PercentDP>
+<SurviveSeconds>112.619942</SurviveSeconds>
+<MaxCombo>394</MaxCombo>
+<StageAward>FullComboW2</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m590, 25% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-25 19:55:08</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>0</W3>
+<W2>15</W2>
+<W1>379</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>26</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>1.000000</Stream>
+<Voltage>0.999975</Voltage>
+<Air>0.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.992857</Chaos>
+<Notes>394.000000</Notes>
+<TapsAndHolds>394</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>18</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>8</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/ITL Online 2026/[07] XOXO (SX) [PUYO]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-03-25</LastPlayed>
+<HighGrade>Tier02</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier02</Grade>
+<Score>42</Score>
+<PercentDP>0.997100</PercentDP>
+<SurviveSeconds>129.518387</SurviveSeconds>
+<MaxCombo>406</MaxCombo>
+<StageAward>SingleDigitW2</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m590, 25% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-25 19:57:48</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>0</W3>
+<W2>6</W2>
+<W1>391</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>22</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>1.000000</Stream>
+<Voltage>0.999970</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.997136</Chaos>
+<Notes>406.000000</Notes>
+<TapsAndHolds>397</TapsAndHolds>
+<Jumps>9</Jumps>
+<Holds>22</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/In The Groove 2/!/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -44020,5 +44138,6 @@
 <CaloriesBurned Date='2025-12-28'>443.029907</CaloriesBurned>
 <CaloriesBurned Date='2026-01-24'>464.862854</CaloriesBurned>
 <CaloriesBurned Date='2026-02-01'>436.094025</CaloriesBurned>
+<CaloriesBurned Date='2026-03-25'>57.150627</CaloriesBurned>
 </CalorieData>
 </Stats>
