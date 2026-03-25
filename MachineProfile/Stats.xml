@@ -18,7 +18,7 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>207</TotalSessions>
+<TotalSessions>208</TotalSessions>
 <TotalSessionSeconds>38966</TotalSessionSeconds>
 <TotalGameplaySeconds>21815</TotalGameplaySeconds>
 <TotalCaloriesBurned>7737.131348</TotalCaloriesBurned>
@@ -26,7 +26,7 @@
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
-<LastPlayedDate>2026-02-01</LastPlayedDate>
+<LastPlayedDate>2026-03-25</LastPlayedDate>
 <TotalDancePoints>504040</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
@@ -9408,6 +9408,14 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2026/[07] FLY (SE) [Maxx]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-03-25</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/In The Groove/Pandemonium/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -9468,14 +9476,14 @@
 <Week10Ago>0</Week10Ago>
 <Week11Ago>0</Week11Ago>
 <Week12Ago>0</Week12Ago>
-<Week13Ago>1</Week13Ago>
+<Week13Ago>0</Week13Ago>
 <Week14Ago>0</Week14Ago>
 <Week15Ago>0</Week15Ago>
 <Week16Ago>0</Week16Ago>
 <Week17Ago>0</Week17Ago>
 <Week18Ago>0</Week18Ago>
 <Week19Ago>0</Week19Ago>
-<Week20Ago>0</Week20Ago>
+<Week20Ago>1</Week20Ago>
 <Week21Ago>0</Week21Ago>
 <Week22Ago>0</Week22Ago>
 <Week23Ago>0</Week23Ago>
