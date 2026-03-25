@@ -703,8 +703,8 @@
          "usedCmod" : false
       },
       "1e69f659571a4080" : {
-         "clearType" : 2,
-         "date" : "2025-08-20",
+         "clearType" : 3,
+         "date" : "2026-02-01",
          "ex" : 9377,
          "judgments" : {
             "Holds" : 33,
@@ -4456,18 +4456,18 @@
          "usedCmod" : false
       },
       "b6341649a1188676" : {
-         "clearType" : 2,
-         "date" : "2025-08-20",
-         "ex" : 9471,
+         "clearType" : 3,
+         "date" : "2026-02-01",
+         "ex" : 9552,
          "judgments" : {
             "Holds" : 17,
             "Mines" : 0,
             "Miss" : 0,
             "Rolls" : 3,
-            "W0" : 352,
-            "W1" : 65,
-            "W2" : 33,
-            "W3" : 1,
+            "W0" : 354,
+            "W1" : 74,
+            "W2" : 23,
+            "W3" : 0,
             "W4" : 0,
             "W5" : 0,
             "totalHolds" : 17,

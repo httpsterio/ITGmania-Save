@@ -18,58 +18,59 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>206</TotalSessions>
-<TotalSessionSeconds>37223</TotalSessionSeconds>
-<TotalGameplaySeconds>20797</TotalGameplaySeconds>
-<TotalCaloriesBurned>7301.037598</TotalCaloriesBurned>
+<TotalSessions>207</TotalSessions>
+<TotalSessionSeconds>38966</TotalSessionSeconds>
+<TotalGameplaySeconds>21815</TotalGameplaySeconds>
+<TotalCaloriesBurned>7737.131348</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
-<LastPlayedDate>2026-01-24</LastPlayedDate>
-<TotalDancePoints>482498</TotalDancePoints>
+<LastPlayedDate>2026-02-01</LastPlayedDate>
+<TotalDancePoints>504040</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>48</NumToasties>
-<TotalTapsAndHolds>94560</TotalTapsAndHolds>
-<TotalJumps>4123</TotalJumps>
-<TotalHolds>9048</TotalHolds>
-<TotalRolls>797</TotalRolls>
-<TotalMines>2926</TotalMines>
-<TotalHands>209</TotalHands>
+<NumToasties>50</NumToasties>
+<TotalTapsAndHolds>98924</TotalTapsAndHolds>
+<TotalJumps>4210</TotalJumps>
+<TotalHolds>9439</TotalHolds>
+<TotalRolls>828</TotalRolls>
+<TotalMines>2972</TotalMines>
+<TotalHands>214</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>164</Regular>
+<Regular>173</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>164</Style>
+<Style Game='dance' Style='single'>173</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Challenge>164</Challenge>
+<Challenge>173</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
-<Meter7>6</Meter7>
-<Meter8>13</Meter8>
-<Meter9>37</Meter9>
-<Meter10>51</Meter10>
-<Meter11>50</Meter11>
-<Meter12>6</Meter12>
+<Meter7>7</Meter7>
+<Meter8>16</Meter8>
+<Meter9>38</Meter9>
+<Meter10>52</Meter10>
+<Meter11>51</Meter11>
+<Meter12>7</Meter12>
+<Meter13>1</Meter13>
 <Meter14>1</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>164</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>173</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>154</Regular>
+<Regular>160</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
-<Tier02>3</Tier02>
-<Tier03>13</Tier03>
-<Tier04>42</Tier04>
-<Tier05>25</Tier05>
+<Tier02>4</Tier02>
+<Tier03>15</Tier03>
+<Tier04>43</Tier04>
+<Tier05>26</Tier05>
 <Tier06>21</Tier06>
 <Tier07>28</Tier07>
-<Tier08>14</Tier08>
+<Tier08>15</Tier08>
 <Tier09>5</Tier09>
 <Tier10>2</Tier10>
 <Tier12>1</Tier12>
@@ -95,8 +96,8 @@
 <Song Dir='Songs/ITL Online 2023/[07] 9mm [SH]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2025-12-28</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-02-01</LastPlayed>
 <HighGrade>Tier04</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -142,6 +143,56 @@
 <Mines>10</Mines>
 <Hands>5</Hands>
 <Rolls>10</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier04</Grade>
+<Score>64</Score>
+<PercentDP>0.960500</PercentDP>
+<SurviveSeconds>122.960220</SurviveSeconds>
+<MaxCombo>145</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m660, 35% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-02-01 19:49:24</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>1</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>1</W3>
+<W2>31</W2>
+<W1>318</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>48</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.976501</Stream>
+<Voltage>0.407870</Voltage>
+<Air>0.961538</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.960599</Chaos>
+<Notes>380.000000</Notes>
+<TapsAndHolds>350</TapsAndHolds>
+<Jumps>25</Jumps>
+<Holds>39</Holds>
+<Mines>9</Mines>
+<Hands>4</Hands>
+<Rolls>9</Rolls>
 <Lifts>0</Lifts>
 <Fakes>0</Fakes>
 </RadarValues>
@@ -1345,6 +1396,65 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2025/[08] Clean The Sea (SH) [Benpai]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-02-01</LastPlayed>
+<HighGrade>Tier02</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier02</Grade>
+<Score>74</Score>
+<PercentDP>0.990200</PercentDP>
+<SurviveSeconds>114.975739</SurviveSeconds>
+<MaxCombo>460</MaxCombo>
+<StageAward>FullComboW2</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m620, 35% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-02-01 19:28:40</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>0</W3>
+<W2>23</W2>
+<W1>428</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>20</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.997826</Stream>
+<Voltage>0.999961</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.990234</Chaos>
+<Notes>460.000000</Notes>
+<TapsAndHolds>451</TapsAndHolds>
+<Jumps>9</Jumps>
+<Holds>17</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>3</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/ITL Online 2025/[08] DEMONS IN MY SOUL (SH) [Lisek]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -1572,6 +1682,65 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2025/[08] Lightning Attack (SM) [Benpai]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-01</LastPlayed>
+<HighGrade>Tier05</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier05</Grade>
+<Score>100</Score>
+<PercentDP>0.953200</PercentDP>
+<SurviveSeconds>115.875061</SurviveSeconds>
+<MaxCombo>507</MaxCombo>
+<StageAward>FullComboW3</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m620, 35% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-02-01 19:31:00</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>14</W3>
+<W2>91</W2>
+<W1>385</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>79</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.968442</Stream>
+<Voltage>1.000000</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.953251</Chaos>
+<Notes>507.000000</Notes>
+<TapsAndHolds>490</TapsAndHolds>
+<Jumps>17</Jumps>
+<Holds>78</Holds>
+<Mines>1</Mines>
+<Hands>0</Hands>
+<Rolls>1</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/ITL Online 2025/[08] Mirrors (SH) [Talkion]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -1734,8 +1903,59 @@
 <Song Dir='Songs/ITL Online 2025/[08] Thousand Absolutes (SX) [Piols]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2025-11-01</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-02-01</LastPlayed>
+<HighGrade>Tier03</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier03</Grade>
+<Score>66</Score>
+<PercentDP>0.984100</PercentDP>
+<SurviveSeconds>99.026360</SurviveSeconds>
+<MaxCombo>323</MaxCombo>
+<StageAward>FullComboW2</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m620, 35% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-02-01 19:33:08</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>0</W3>
+<W2>29</W2>
+<W1>294</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>43</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>1.000000</Stream>
+<Voltage>1.000000</Voltage>
+<Air>0.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.984153</Chaos>
+<Notes>323.000000</Notes>
+<TapsAndHolds>323</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>34</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>9</Rolls>
+<Lifts>0</Lifts>
+<Fakes>4</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 </HighScoreList>
 </Steps>
 </Song>
@@ -3439,8 +3659,8 @@
 <Song Dir='Songs/ITL Online 2025/[09] unlucky number (SH) [Valex]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>5</NumTimesPlayed>
-<LastPlayed>2025-11-05</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
+<LastPlayed>2026-02-01</LastPlayed>
 <HighGrade>Tier03</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -3533,6 +3753,56 @@
 <TapsAndHolds>459</TapsAndHolds>
 <Jumps>9</Jumps>
 <Holds>75</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>11</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier03</Grade>
+<Score>73</Score>
+<PercentDP>0.984700</PercentDP>
+<SurviveSeconds>137.925278</SurviveSeconds>
+<MaxCombo>468</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m660, 35% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-02-01 19:36:26</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>4</W3>
+<W2>24</W2>
+<W1>431</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>76</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.989316</Stream>
+<Voltage>0.999982</Voltage>
+<Air>1.000000</Air>
+<Freeze>0.986667</Freeze>
+<Chaos>0.984702</Chaos>
+<Notes>468.000000</Notes>
+<TapsAndHolds>459</TapsAndHolds>
+<Jumps>9</Jumps>
+<Holds>74</Holds>
 <Mines>0</Mines>
 <Hands>0</Hands>
 <Rolls>2</Rolls>
@@ -3893,8 +4163,8 @@
 <Song Dir='Songs/ITL Online 2025/[10] Coffee Bot (SX) [Maxx &amp; Exschwasion]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>5</NumTimesPlayed>
-<LastPlayed>2025-11-09</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
+<LastPlayed>2026-02-01</LastPlayed>
 <HighGrade>Tier06</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -3988,6 +4258,56 @@
 <Jumps>20</Jumps>
 <Holds>37</Holds>
 <Mines>38</Mines>
+<Hands>1</Hands>
+<Rolls>1</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier08</Grade>
+<Score>118</Score>
+<PercentDP>0.882600</PercentDP>
+<SurviveSeconds>125.049194</SurviveSeconds>
+<MaxCombo>189</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m660, 35% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-02-01 19:46:31</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>4</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>9</Miss>
+<W5>0</W5>
+<W4>3</W4>
+<W3>27</W3>
+<W2>129</W2>
+<W1>478</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>39</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.932432</Stream>
+<Voltage>0.304401</Voltage>
+<Air>0.900000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.882628</Chaos>
+<Notes>657.000000</Notes>
+<TapsAndHolds>638</TapsAndHolds>
+<Jumps>18</Jumps>
+<Holds>38</Holds>
+<Mines>34</Mines>
 <Hands>1</Hands>
 <Rolls>1</Rolls>
 <Lifts>0</Lifts>
@@ -6533,8 +6853,8 @@
 <Song Dir='Songs/ITL Online 2025/[11] DIP N DRIP (SX) [DRILLBOT]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>3</NumTimesPlayed>
-<LastPlayed>2025-11-07</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2026-02-01</LastPlayed>
 <HighGrade>Tier06</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -7693,8 +8013,8 @@
 <Song Dir='Songs/ITL Online 2025/[11] Punch Box (SX) [Maxx]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>2</NumTimesPlayed>
-<LastPlayed>2025-10-27</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2026-02-01</LastPlayed>
 <HighGrade>Tier07</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -8248,8 +8568,8 @@
 <Song Dir='Songs/ITL Online 2025/[11] Voxel (SX) [CopperPuppy]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>6</NumTimesPlayed>
-<LastPlayed>2025-11-07</LastPlayed>
+<NumTimesPlayed>7</NumTimesPlayed>
+<LastPlayed>2026-02-01</LastPlayed>
 <HighGrade>Tier05</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -9024,6 +9344,14 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2025/[12] Turbocharger (SX) [Frondal]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-01</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/ITL Online 2025/[13] Berry Patch  (SX) [Rems]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -9045,6 +9373,14 @@
 <HighScoreList>
 <NumTimesPlayed>2</NumTimesPlayed>
 <LastPlayed>2025-11-01</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/ITL Online 2025/[13] Forgotten Hate (SX) [sorae]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-01</LastPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -9106,6 +9442,7 @@
 <CaloriesBurned Date='2025-11-09'>471.202881</CaloriesBurned>
 <CaloriesBurned Date='2025-12-28'>443.029907</CaloriesBurned>
 <CaloriesBurned Date='2026-01-24'>464.862854</CaloriesBurned>
+<CaloriesBurned Date='2026-02-01'>436.094025</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
@@ -9129,9 +9466,9 @@
 <Week08Ago>0</Week08Ago>
 <Week09Ago>0</Week09Ago>
 <Week10Ago>0</Week10Ago>
-<Week11Ago>1</Week11Ago>
+<Week11Ago>0</Week11Ago>
 <Week12Ago>0</Week12Ago>
-<Week13Ago>0</Week13Ago>
+<Week13Ago>1</Week13Ago>
 <Week14Ago>0</Week14Ago>
 <Week15Ago>0</Week15Ago>
 <Week16Ago>0</Week16Ago>
