@@ -18,48 +18,48 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>216</TotalSessions>
-<TotalSessionSeconds>51006</TotalSessionSeconds>
-<TotalGameplaySeconds>29126</TotalGameplaySeconds>
-<TotalCaloriesBurned>9971.643555</TotalCaloriesBurned>
+<TotalSessions>217</TotalSessions>
+<TotalSessionSeconds>51241</TotalSessionSeconds>
+<TotalGameplaySeconds>29207</TotalGameplaySeconds>
+<TotalCaloriesBurned>9991.568359</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
 <LastPlayedDate>2026-03-30</LastPlayedDate>
-<TotalDancePoints>650324</TotalDancePoints>
+<TotalDancePoints>651912</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>80</NumToasties>
-<TotalTapsAndHolds>126461</TotalTapsAndHolds>
-<TotalJumps>5573</TotalJumps>
-<TotalHolds>12747</TotalHolds>
-<TotalRolls>1059</TotalRolls>
+<NumToasties>81</NumToasties>
+<TotalTapsAndHolds>126775</TotalTapsAndHolds>
+<TotalJumps>5593</TotalJumps>
+<TotalHolds>12753</TotalHolds>
+<TotalRolls>1066</TotalRolls>
 <TotalMines>3568</TotalMines>
 <TotalHands>263</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>234</Regular>
+<Regular>235</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>234</Style>
+<Style Game='dance' Style='single'>235</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Challenge>234</Challenge>
+<Challenge>235</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter7>18</Meter7>
 <Meter8>29</Meter8>
-<Meter9>62</Meter9>
+<Meter9>63</Meter9>
 <Meter10>59</Meter10>
 <Meter11>56</Meter11>
 <Meter12>8</Meter12>
 <Meter13>1</Meter13>
 <Meter14>1</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>234</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>235</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
 <Regular>217</Regular>
 </NumStagesPassedByPlayMode>
@@ -10801,8 +10801,8 @@
 <Song Dir='Songs/ITL Online 2026/[09] Are You Serious (Eskimo Remix) (SH) [mdx]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-03-27</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-03-30</LastPlayed>
 <HighGrade>Tier03</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -10860,8 +10860,8 @@
 <Song Dir='Songs/ITL Online 2026/[09] Banger (SM) [omgukk]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>2</NumTimesPlayed>
-<LastPlayed>2026-03-25</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2026-03-30</LastPlayed>
 <HighGrade>Tier03</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -12488,6 +12488,14 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2026/[11] 2015 (SX) [altic]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-03-30</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/ITL Online 2026/[11] Asphalt Crack (SX) [KAYSTAR]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -12778,6 +12786,7 @@
 <CaloriesBurned Date='2026-03-25'>504.937744</CaloriesBurned>
 <CaloriesBurned Date='2026-03-27'>687.308228</CaloriesBurned>
 <CaloriesBurned Date='2026-03-29'>1042.262573</CaloriesBurned>
+<CaloriesBurned Date='2026-03-30'>19.924746</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
