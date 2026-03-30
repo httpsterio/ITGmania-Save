@@ -18,22 +18,22 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>217</TotalSessions>
-<TotalSessionSeconds>51241</TotalSessionSeconds>
-<TotalGameplaySeconds>29207</TotalGameplaySeconds>
-<TotalCaloriesBurned>9991.568359</TotalCaloriesBurned>
+<TotalSessions>219</TotalSessions>
+<TotalSessionSeconds>51475</TotalSessionSeconds>
+<TotalGameplaySeconds>29376</TotalGameplaySeconds>
+<TotalCaloriesBurned>10041.616211</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
 <LastPlayedDate>2026-03-30</LastPlayedDate>
-<TotalDancePoints>651912</TotalDancePoints>
+<TotalDancePoints>655980</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>81</NumToasties>
-<TotalTapsAndHolds>126775</TotalTapsAndHolds>
-<TotalJumps>5593</TotalJumps>
-<TotalHolds>12753</TotalHolds>
+<NumToasties>82</NumToasties>
+<TotalTapsAndHolds>127510</TotalTapsAndHolds>
+<TotalJumps>5669</TotalJumps>
+<TotalHolds>12849</TotalHolds>
 <TotalRolls>1066</TotalRolls>
 <TotalMines>3568</TotalMines>
 <TotalHands>263</TotalHands>
@@ -41,25 +41,25 @@
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>235</Regular>
+<Regular>238</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>235</Style>
+<Style Game='dance' Style='single'>238</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Challenge>235</Challenge>
+<Challenge>238</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter7>18</Meter7>
 <Meter8>29</Meter8>
-<Meter9>63</Meter9>
+<Meter9>66</Meter9>
 <Meter10>59</Meter10>
 <Meter11>56</Meter11>
 <Meter12>8</Meter12>
 <Meter13>1</Meter13>
 <Meter14>1</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>235</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>238</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
 <Regular>217</Regular>
 </NumStagesPassedByPlayMode>
@@ -3253,6 +3253,14 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2025/[09] Rasputin (SX) [Maxx]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2026-03-30</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/ITL Online 2025/[09] Stay Fresh! (SH) [mute]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -3660,8 +3668,8 @@
 <Song Dir='Songs/ITL Online 2025/[09] unlucky number (SH) [Valex]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>6</NumTimesPlayed>
-<LastPlayed>2026-02-01</LastPlayed>
+<NumTimesPlayed>7</NumTimesPlayed>
+<LastPlayed>2026-03-30</LastPlayed>
 <HighGrade>Tier03</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -11832,6 +11840,14 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2026/[09] Strategy (SH) [freyja]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-03-30</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/ITL Online 2026/[09] The One (SH) [MoistBruh &amp; Ricky]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -12786,7 +12802,7 @@
 <CaloriesBurned Date='2026-03-25'>504.937744</CaloriesBurned>
 <CaloriesBurned Date='2026-03-27'>687.308228</CaloriesBurned>
 <CaloriesBurned Date='2026-03-29'>1042.262573</CaloriesBurned>
-<CaloriesBurned Date='2026-03-30'>19.924746</CaloriesBurned>
+<CaloriesBurned Date='2026-03-30'>69.973236</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
