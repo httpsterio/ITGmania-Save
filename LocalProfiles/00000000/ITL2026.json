@@ -108,6 +108,33 @@
          "points" : 2448,
          "usedCmod" : false
       },
+      "114793f90f0e177a" : {
+         "clearType" : 3,
+         "date" : "2026-04-01",
+         "ex" : 9660,
+         "judgments" : {
+            "Holds" : 46,
+            "Mines" : 0,
+            "Miss" : 0,
+            "Rolls" : 3,
+            "W0" : 347,
+            "W1" : 52,
+            "W2" : 15,
+            "W3" : 1,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 46,
+            "totalMines" : 0,
+            "totalRolls" : 3,
+            "totalSteps" : 415
+         },
+         "maxPoints" : 1223,
+         "maxScoringPoints" : 735,
+         "noCmod" : true,
+         "passingPoints" : 488,
+         "points" : 899,
+         "usedCmod" : false
+      },
       "140621df6231ba2a" : {
          "clearType" : 1,
          "date" : "2026-03-29",
@@ -1487,6 +1514,7 @@
       }
    },
    "pathMap" : {
+      "/Songs/ITL Online 2026/[07] 24HRS (SM) [G. Rosewood]/" : "114793f90f0e177a",
       "/Songs/ITL Online 2026/[07] A Severed Timeline (SE) [HellKiteChaos]/" : "23d69a4cf38d1150",
       "/Songs/ITL Online 2026/[07] AUTOMATIC (SM) [Maxx]/" : "3676af958bc420ec",
       "/Songs/ITL Online 2026/[07] Boom Shakalaka (SM) [Kigha]/" : "f362d8a3b869387d",
