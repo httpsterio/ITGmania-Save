@@ -19,53 +19,53 @@
 <Course/>
 <CurrentCombo>0</CurrentCombo>
 <TotalSessions>220</TotalSessions>
-<TotalSessionSeconds>54288</TotalSessionSeconds>
-<TotalGameplaySeconds>31098</TotalGameplaySeconds>
-<TotalCaloriesBurned>10590.250000</TotalCaloriesBurned>
+<TotalSessionSeconds>54770</TotalSessionSeconds>
+<TotalGameplaySeconds>31485</TotalGameplaySeconds>
+<TotalCaloriesBurned>10738.437500</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
 <LastPlayedDate>2026-03-31</LastPlayedDate>
-<TotalDancePoints>692385</TotalDancePoints>
+<TotalDancePoints>701007</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>93</NumToasties>
-<TotalTapsAndHolds>134145</TotalTapsAndHolds>
-<TotalJumps>5963</TotalJumps>
-<TotalHolds>13731</TotalHolds>
-<TotalRolls>1113</TotalRolls>
-<TotalMines>3666</TotalMines>
+<NumToasties>95</NumToasties>
+<TotalTapsAndHolds>135879</TotalTapsAndHolds>
+<TotalJumps>6059</TotalJumps>
+<TotalHolds>13942</TotalHolds>
+<TotalRolls>1115</TotalRolls>
+<TotalMines>3692</TotalMines>
 <TotalHands>289</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>252</Regular>
+<Regular>255</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>252</Style>
+<Style Game='dance' Style='single'>255</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Challenge>252</Challenge>
+<Challenge>255</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter7>23</Meter7>
 <Meter8>30</Meter8>
-<Meter9>70</Meter9>
+<Meter9>72</Meter9>
 <Meter10>63</Meter10>
 <Meter11>56</Meter11>
-<Meter12>8</Meter12>
+<Meter12>9</Meter12>
 <Meter13>1</Meter13>
 <Meter14>1</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>252</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>255</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>231</Regular>
+<Regular>233</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier02>22</Tier02>
-<Tier03>30</Tier03>
+<Tier03>32</Tier03>
 <Tier04>61</Tier04>
 <Tier05>34</Tier05>
 <Tier06>22</Tier06>
@@ -11183,6 +11183,65 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2026/[09] Baddie (SX) [teejusb]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-03-31</LastPlayed>
+<HighGrade>Tier03</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier03</Grade>
+<Score>91</Score>
+<PercentDP>0.986000</PercentDP>
+<SurviveSeconds>121.106659</SurviveSeconds>
+<MaxCombo>542</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m640, 30% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-31 18:05:10</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>1</W4>
+<W3>2</W3>
+<W2>34</W2>
+<W1>500</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>110</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.992767</Stream>
+<Voltage>0.983583</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.986090</Chaos>
+<Notes>553.000000</Notes>
+<TapsAndHolds>537</TapsAndHolds>
+<Jumps>16</Jumps>
+<Holds>110</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/ITL Online 2026/[09] Banger (SM) [omgukk]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -11421,8 +11480,8 @@
 <Song Dir='Songs/ITL Online 2026/[09] ECHO (SX) [xRGTMx]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>3</NumTimesPlayed>
-<LastPlayed>2026-03-29</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2026-03-31</LastPlayed>
 <HighGrade>Tier03</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -11462,6 +11521,56 @@
 <Freeze>1.000000</Freeze>
 <Chaos>0.985331</Chaos>
 <Notes>513.000000</Notes>
+<TapsAndHolds>471</TapsAndHolds>
+<Jumps>42</Jumps>
+<Holds>88</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier03</Grade>
+<Score>72</Score>
+<PercentDP>0.984900</PercentDP>
+<SurviveSeconds>132.576675</SurviveSeconds>
+<MaxCombo>513</MaxCombo>
+<StageAward>SingleDigitW3</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m640, 30% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-31 18:02:41</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>2</W3>
+<W2>36</W2>
+<W1>433</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>88</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.994152</Stream>
+<Voltage>0.999911</Voltage>
+<Air>0.976190</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.984973</Chaos>
+<Notes>512.000000</Notes>
 <TapsAndHolds>471</TapsAndHolds>
 <Jumps>42</Jumps>
 <Holds>88</Holds>
@@ -13517,6 +13626,14 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2026/[12] I GOT THE FEELIN (SX) [Panko]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-03-31</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/In The Groove/Pandemonium/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -13556,7 +13673,7 @@
 <CaloriesBurned Date='2026-03-27'>687.308228</CaloriesBurned>
 <CaloriesBurned Date='2026-03-29'>1042.262573</CaloriesBurned>
 <CaloriesBurned Date='2026-03-30'>69.973236</CaloriesBurned>
-<CaloriesBurned Date='2026-03-31'>548.632996</CaloriesBurned>
+<CaloriesBurned Date='2026-03-31'>696.819824</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>

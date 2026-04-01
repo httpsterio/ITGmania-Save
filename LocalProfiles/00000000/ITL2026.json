@@ -82,8 +82,8 @@
          "usedCmod" : false
       },
       "0d8c37cdb0b7d0f6" : {
-         "clearType" : 1,
-         "date" : "2026-03-29",
+         "clearType" : 2,
+         "date" : "2026-03-31",
          "ex" : 9498,
          "judgments" : {
             "Holds" : 88,
@@ -1080,6 +1080,33 @@
          "points" : 3570,
          "usedCmod" : false
       },
+      "ba088d9d77c45936" : {
+         "clearType" : 1,
+         "date" : "2026-03-31",
+         "ex" : 9472,
+         "judgments" : {
+            "Holds" : 110,
+            "Mines" : 0,
+            "Miss" : 0,
+            "Rolls" : 0,
+            "W0" : 409,
+            "W1" : 91,
+            "W2" : 34,
+            "W3" : 2,
+            "W4" : 1,
+            "W5" : 0,
+            "totalHolds" : 110,
+            "totalMines" : 0,
+            "totalRolls" : 0,
+            "totalSteps" : 537
+         },
+         "maxPoints" : 3245,
+         "maxScoringPoints" : 1948,
+         "noCmod" : false,
+         "passingPoints" : 1297,
+         "points" : 2493,
+         "usedCmod" : false
+      },
       "c9e45c5e534f058d" : {
          "clearType" : 1,
          "date" : "2026-03-25",
@@ -1484,6 +1511,7 @@
       "/Songs/ITL Online 2026/[08] Samba Do Brasil (SH) [Highflyer]/" : "35bb4cb4e878b7fa",
       "/Songs/ITL Online 2026/[08] Suit Up (SM) [Shpadoinkle]/" : "9d568ff9fa0bd946",
       "/Songs/ITL Online 2026/[09] Are You Serious (Eskimo Remix) (SH) [mdx]/" : "950614997ada6abd",
+      "/Songs/ITL Online 2026/[09] Baddie (SX) [teejusb]/" : "ba088d9d77c45936",
       "/Songs/ITL Online 2026/[09] Banger (SM) [omgukk]/" : "01dd02793421db48",
       "/Songs/ITL Online 2026/[09] DIFFERENT (SX) [teejusb]/" : "d6b4344ffe88c57c",
       "/Songs/ITL Online 2026/[09] Disconnected Disco (SX) [Unpronounceable]/" : "74bcb48630554e17",
@@ -1521,6 +1549,8 @@
       "[10] MANTIS RITUAL (SM) [RakkiiCB]" : true,
       "[10] More (SX) [valgrind]" : true,
       "[10] SOUR @vrif250 (SM) [erictran0]" : true,
+      "[10] SPACE INVADER (short cut) (SH) [dimo, ITL Revise]" : true,
+      "[10] Satisfy (SX) [Benpai]" : true,
       "[10] Yume enishi (SH) [forcednature]" : true,
       "[11] Buck's Fizz (SX) [ZSL]" : true,
       "[11] Echo (SX) [R. Woods]" : true,
