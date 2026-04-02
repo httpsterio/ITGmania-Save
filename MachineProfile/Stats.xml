@@ -18,54 +18,54 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>230</TotalSessions>
-<TotalSessionSeconds>58608</TotalSessionSeconds>
-<TotalGameplaySeconds>33882</TotalGameplaySeconds>
-<TotalCaloriesBurned>11574.072266</TotalCaloriesBurned>
+<TotalSessions>231</TotalSessions>
+<TotalSessionSeconds>59123</TotalSessionSeconds>
+<TotalGameplaySeconds>34139</TotalGameplaySeconds>
+<TotalCaloriesBurned>11666.034180</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
 <LastPlayedDate>2026-04-01</LastPlayedDate>
-<TotalDancePoints>752198</TotalDancePoints>
+<TotalDancePoints>757424</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>102</NumToasties>
-<TotalTapsAndHolds>145984</TotalTapsAndHolds>
-<TotalJumps>6485</TotalJumps>
-<TotalHolds>14755</TotalHolds>
-<TotalRolls>1279</TotalRolls>
-<TotalMines>4019</TotalMines>
+<TotalTapsAndHolds>147110</TotalTapsAndHolds>
+<TotalJumps>6525</TotalJumps>
+<TotalHolds>14795</TotalHolds>
+<TotalRolls>1302</TotalRolls>
+<TotalMines>4031</TotalMines>
 <TotalHands>354</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>274</Regular>
+<Regular>277</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>274</Style>
+<Style Game='dance' Style='single'>277</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Challenge>274</Challenge>
+<Challenge>277</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter7>29</Meter7>
 <Meter8>30</Meter8>
-<Meter9>75</Meter9>
+<Meter9>76</Meter9>
 <Meter10>70</Meter10>
 <Meter11>57</Meter11>
-<Meter12>10</Meter12>
+<Meter12>11</Meter12>
 <Meter13>2</Meter13>
-<Meter14>1</Meter14>
+<Meter14>2</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>274</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>277</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>252</Regular>
+<Regular>253</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier02>26</Tier02>
-<Tier03>34</Tier03>
+<Tier03>35</Tier03>
 <Tier04>63</Tier04>
 <Tier05>38</Tier05>
 <Tier06>23</Tier06>
@@ -11463,8 +11463,8 @@
 <Song Dir='Songs/ITL Online 2026/[09] Are You Serious (Eskimo Remix) (SH) [mdx]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>2</NumTimesPlayed>
-<LastPlayed>2026-03-30</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2026-04-01</LastPlayed>
 <HighGrade>Tier03</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -11503,6 +11503,56 @@
 <Air>1.000000</Air>
 <Freeze>1.000000</Freeze>
 <Chaos>0.982792</Chaos>
+<Notes>522.000000</Notes>
+<TapsAndHolds>490</TapsAndHolds>
+<Jumps>32</Jumps>
+<Holds>12</Holds>
+<Mines>2</Mines>
+<Hands>0</Hands>
+<Rolls>21</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier03</Grade>
+<Score>96</Score>
+<PercentDP>0.980100</PercentDP>
+<SurviveSeconds>140.785492</SurviveSeconds>
+<MaxCombo>522</MaxCombo>
+<StageAward>SingleDigitW3</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m640, 30% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-01 22:05:52</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>2</W3>
+<W2>46</W2>
+<W1>442</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>33</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.996169</Stream>
+<Voltage>1.000000</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.980115</Chaos>
 <Notes>522.000000</Notes>
 <TapsAndHolds>490</TapsAndHolds>
 <Jumps>32</Jumps>
@@ -12915,8 +12965,8 @@
 <Song Dir='Songs/ITL Online 2026/[09] Someone Special (SX) [Benpai]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-03-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-04-01</LastPlayed>
 <HighGrade>Tier04</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -14134,8 +14184,8 @@
 <Song Dir='Songs/ITL Online 2026/[10] media offline (SM) [Snap]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-03-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-04-01</LastPlayed>
 <HighGrade>Tier04</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -14563,7 +14613,7 @@
 <Song Dir='Songs/ITL Online 2026/[12] Darkside (SH) [ghostwriter]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>2</NumTimesPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 <LastPlayed>2026-04-01</LastPlayed>
 </HighScoreList>
 </Steps>
@@ -14702,6 +14752,14 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2026/[14] Deep Into The Vibe (SX) [sorae]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-04-01</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/In The Groove/Pandemonium/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -14742,7 +14800,7 @@
 <CaloriesBurned Date='2026-03-29'>1042.262573</CaloriesBurned>
 <CaloriesBurned Date='2026-03-30'>69.973236</CaloriesBurned>
 <CaloriesBurned Date='2026-03-31'>696.819824</CaloriesBurned>
-<CaloriesBurned Date='2026-04-01'>835.635376</CaloriesBurned>
+<CaloriesBurned Date='2026-04-01'>927.596924</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
@@ -14776,8 +14834,8 @@
 <Week18Ago>0</Week18Ago>
 <Week19Ago>0</Week19Ago>
 <Week20Ago>0</Week20Ago>
-<Week21Ago>1</Week21Ago>
-<Week22Ago>0</Week22Ago>
+<Week21Ago>0</Week21Ago>
+<Week22Ago>1</Week22Ago>
 <Week23Ago>0</Week23Ago>
 <Week24Ago>0</Week24Ago>
 <Week25Ago>0</Week25Ago>

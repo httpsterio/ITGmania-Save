@@ -16,27 +16,27 @@
 <LastDifficulty>Challenge</LastDifficulty>
 <LastCourseDifficulty>Medium</LastCourseDifficulty>
 <LastStepsType>dance-single</LastStepsType>
-<Song Dir='Songs/ITL Online 2026/[13] shake!the!city! (SX) [Kigha]/'/>
+<Song Dir='Songs/ITL Online 2026/[12] Darkside (SH) [ghostwriter]/'/>
 <Course Path='Courses/Tampere 10th Dan.crs'/>
-<CurrentCombo>71</CurrentCombo>
+<CurrentCombo>56</CurrentCombo>
 <TotalSessions>80</TotalSessions>
-<TotalSessionSeconds>208484</TotalSessionSeconds>
-<TotalGameplaySeconds>127011</TotalGameplaySeconds>
-<TotalCaloriesBurned>34665.765625</TotalCaloriesBurned>
+<TotalSessionSeconds>208999</TotalSessionSeconds>
+<TotalGameplaySeconds>127268</TotalGameplaySeconds>
+<TotalCaloriesBurned>34757.730469</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
 <LastPlayedDate>2026-04-01</LastPlayedDate>
-<TotalDancePoints>2438558</TotalDancePoints>
+<TotalDancePoints>2443784</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>325</NumToasties>
-<TotalTapsAndHolds>473130</TotalTapsAndHolds>
-<TotalJumps>23098</TotalJumps>
-<TotalHolds>44027</TotalHolds>
-<TotalRolls>3683</TotalRolls>
-<TotalMines>11420</TotalMines>
+<TotalTapsAndHolds>474256</TotalTapsAndHolds>
+<TotalJumps>23138</TotalJumps>
+<TotalHolds>44067</TotalHolds>
+<TotalRolls>3706</TotalRolls>
+<TotalMines>11432</TotalMines>
 <TotalHands>654</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers>
@@ -44,18 +44,18 @@
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>1004</Regular>
+<Regular>1007</Regular>
 <Nonstop>35</Nonstop>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>1039</Style>
+<Style Game='dance' Style='single'>1042</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
 <Beginner>12</Beginner>
 <Easy>11</Easy>
 <Medium>12</Medium>
 <Hard>155</Hard>
-<Challenge>849</Challenge>
+<Challenge>852</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>6</Meter1>
@@ -66,21 +66,21 @@
 <Meter6>11</Meter6>
 <Meter7>247</Meter7>
 <Meter8>236</Meter8>
-<Meter9>268</Meter9>
+<Meter9>269</Meter9>
 <Meter10>157</Meter10>
 <Meter11>84</Meter11>
-<Meter12>12</Meter12>
+<Meter12>13</Meter12>
 <Meter13>2</Meter13>
-<Meter14>1</Meter14>
+<Meter14>2</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>1039</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>1042</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>963</Regular>
+<Regular>964</Regular>
 <Nonstop>9</Nonstop>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier02>61</Tier02>
-<Tier03>174</Tier03>
+<Tier03>175</Tier03>
 <Tier04>271</Tier04>
 <Tier05>133</Tier05>
 <Tier06>109</Tier06>
@@ -34514,8 +34514,8 @@
 <Song Dir='Songs/ITL Online 2026/[09] Are You Serious (Eskimo Remix) (SH) [mdx]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-03-27</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-04-01</LastPlayed>
 <HighGrade>Tier03</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -34554,6 +34554,56 @@
 <Air>1.000000</Air>
 <Freeze>1.000000</Freeze>
 <Chaos>0.982792</Chaos>
+<Notes>522.000000</Notes>
+<TapsAndHolds>490</TapsAndHolds>
+<Jumps>32</Jumps>
+<Holds>12</Holds>
+<Mines>2</Mines>
+<Hands>0</Hands>
+<Rolls>21</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier03</Grade>
+<Score>96</Score>
+<PercentDP>0.980100</PercentDP>
+<SurviveSeconds>140.785492</SurviveSeconds>
+<MaxCombo>522</MaxCombo>
+<StageAward>SingleDigitW3</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m640, 30% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-01 22:05:52</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>2</W3>
+<W2>46</W2>
+<W1>442</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>33</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.996169</Stream>
+<Voltage>1.000000</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.980115</Chaos>
 <Notes>522.000000</Notes>
 <TapsAndHolds>490</TapsAndHolds>
 <Jumps>32</Jumps>
@@ -36116,8 +36166,8 @@
 <Song Dir='Songs/ITL Online 2026/[09] Someone Special (SX) [Benpai]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-03-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-04-01</LastPlayed>
 <HighGrade>Tier04</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -37335,8 +37385,8 @@
 <Song Dir='Songs/ITL Online 2026/[10] media offline (SM) [Snap]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-03-25</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-04-01</LastPlayed>
 <HighGrade>Tier04</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -37756,9 +37806,59 @@
 <Song Dir='Songs/ITL Online 2026/[12] Darkside (SH) [ghostwriter]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>2</NumTimesPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 <LastPlayed>2026-04-01</LastPlayed>
 <HighGrade>Failed</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Failed</Grade>
+<Score>73</Score>
+<PercentDP>0.359600</PercentDP>
+<SurviveSeconds>65.532913</SurviveSeconds>
+<MaxCombo>273</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m640, 30% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-01 22:07:40</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>9</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>24</W3>
+<W2>72</W2>
+<W1>246</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>4</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.391463</Stream>
+<Voltage>0.326635</Voltage>
+<Air>0.500000</Air>
+<Freeze>0.500000</Freeze>
+<Chaos>0.359611</Chaos>
+<Notes>345.000000</Notes>
+<TapsAndHolds>342</TapsAndHolds>
+<Jumps>3</Jumps>
+<Holds>2</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 <HighScore>
 <Name>HTTP</Name>
 <Grade>Failed</Grade>
@@ -37987,6 +38087,65 @@
 <Mines>26</Mines>
 <Hands>0</Hands>
 <Rolls>6</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/ITL Online 2026/[14] Deep Into The Vibe (SX) [sorae]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-04-01</LastPlayed>
+<HighGrade>Failed</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Failed</Grade>
+<Score>57</Score>
+<PercentDP>0.227200</PercentDP>
+<SurviveSeconds>46.819977</SurviveSeconds>
+<MaxCombo>163</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m640, 30% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-01 22:00:58</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>1</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>57</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>48</W3>
+<W2>81</W2>
+<W1>165</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>26</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.253564</Stream>
+<Voltage>0.171075</Voltage>
+<Air>0.384615</Air>
+<Freeze>0.351351</Freeze>
+<Chaos>0.227229</Chaos>
+<Notes>299.000000</Notes>
+<TapsAndHolds>294</TapsAndHolds>
+<Jumps>5</Jumps>
+<Holds>26</Holds>
+<Mines>10</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
 <Lifts>0</Lifts>
 <Fakes>0</Fakes>
 </RadarValues>
@@ -49703,6 +49862,6 @@
 <CaloriesBurned Date='2026-03-29'>1042.262573</CaloriesBurned>
 <CaloriesBurned Date='2026-03-30'>50.048485</CaloriesBurned>
 <CaloriesBurned Date='2026-03-31'>696.819824</CaloriesBurned>
-<CaloriesBurned Date='2026-04-01'>835.635376</CaloriesBurned>
+<CaloriesBurned Date='2026-04-01'>927.596924</CaloriesBurned>
 </CalorieData>
 </Stats>
