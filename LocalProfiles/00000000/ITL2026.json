@@ -486,6 +486,33 @@
          "points" : 1920,
          "usedCmod" : false
       },
+      "304174e12b8f7534" : {
+         "clearType" : 1,
+         "date" : "2026-04-02",
+         "ex" : 8292,
+         "judgments" : {
+            "Holds" : 70,
+            "Mines" : 0,
+            "Miss" : 10,
+            "Rolls" : 3,
+            "W0" : 395,
+            "W1" : 155,
+            "W2" : 143,
+            "W3" : 51,
+            "W4" : 1,
+            "W5" : 2,
+            "totalHolds" : 70,
+            "totalMines" : 4,
+            "totalRolls" : 3,
+            "totalSteps" : 757
+         },
+         "maxPoints" : 6490,
+         "maxScoringPoints" : 3878,
+         "noCmod" : false,
+         "passingPoints" : 2612,
+         "points" : 3414,
+         "usedCmod" : false
+      },
       "32637a6086532c15" : {
          "clearType" : 1,
          "date" : "2026-04-02",
@@ -2381,6 +2408,7 @@
       "/Songs/ITL Online 2026/[11] Jump Up (SX) [Burner]/" : "abb1ff4abf631de6",
       "/Songs/ITL Online 2026/[11] Smalt #28598F (SH) [Valex]/" : "9dfd9e71803cc76d",
       "/Songs/ITL Online 2026/[12] I GOT THE FEELIN (SX) [Panko]/" : "3985ed1ef8e22dcd",
+      "/Songs/ITL Online 2026/[12] fairly brave (SH) [sangyule]/" : "304174e12b8f7534",
       "/Songs/ITL Online 2026/[13] shake!the!city! (SX) [Kigha]/" : "34d9dc31f7ddfae9"
    },
    "unlockFolders" : {

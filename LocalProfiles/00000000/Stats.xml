@@ -16,46 +16,46 @@
 <LastDifficulty>Challenge</LastDifficulty>
 <LastCourseDifficulty>Medium</LastCourseDifficulty>
 <LastStepsType>dance-single</LastStepsType>
-<Song Dir='Songs/ITL Online 2026/[11] Jump Up (SX) [Burner]/'/>
+<Song Dir='Songs/ITL Online 2026/[07] Tippy Toes (SH) [Highflyer]/'/>
 <Course Path='Courses/Tampere 10th Dan.crs'/>
-<CurrentCombo>180</CurrentCombo>
+<CurrentCombo>0</CurrentCombo>
 <TotalSessions>81</TotalSessions>
-<TotalSessionSeconds>214756</TotalSessionSeconds>
-<TotalGameplaySeconds>130535</TotalGameplaySeconds>
-<TotalCaloriesBurned>35771.546875</TotalCaloriesBurned>
+<TotalSessionSeconds>215028</TotalSessionSeconds>
+<TotalGameplaySeconds>130670</TotalGameplaySeconds>
+<TotalCaloriesBurned>35840.445312</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
 <LastPlayedDate>2026-04-02</LastPlayedDate>
-<TotalDancePoints>2511675</TotalDancePoints>
+<TotalDancePoints>2515332</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>334</NumToasties>
-<TotalTapsAndHolds>486950</TotalTapsAndHolds>
-<TotalJumps>23883</TotalJumps>
-<TotalHolds>45363</TotalHolds>
-<TotalRolls>4082</TotalRolls>
-<TotalMines>11888</TotalMines>
+<TotalTapsAndHolds>487695</TotalTapsAndHolds>
+<TotalJumps>23913</TotalJumps>
+<TotalHolds>45433</TotalHolds>
+<TotalRolls>4085</TotalRolls>
+<TotalMines>11892</TotalMines>
 <TotalHands>715</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers>
-<dance>NoHideLights, m650, Overhead</dance>
+<dance>NoHideLights, m500, Overhead</dance>
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>1034</Regular>
+<Regular>1035</Regular>
 <Nonstop>35</Nonstop>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>1069</Style>
+<Style Game='dance' Style='single'>1070</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
 <Beginner>12</Beginner>
 <Easy>11</Easy>
 <Medium>12</Medium>
 <Hard>155</Hard>
-<Challenge>879</Challenge>
+<Challenge>880</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>6</Meter1>
@@ -69,13 +69,13 @@
 <Meter9>277</Meter9>
 <Meter10>165</Meter10>
 <Meter11>87</Meter11>
-<Meter12>14</Meter12>
+<Meter12>15</Meter12>
 <Meter13>2</Meter13>
 <Meter14>2</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>1069</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>1070</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>990</Regular>
+<Regular>991</Regular>
 <Nonstop>9</Nonstop>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
@@ -85,7 +85,7 @@
 <Tier05>136</Tier05>
 <Tier06>110</Tier06>
 <Tier07>99</Tier07>
-<Tier08>58</Tier08>
+<Tier08>59</Tier08>
 <Tier09>26</Tier09>
 <Tier10>22</Tier10>
 <Tier11>17</Tier11>
@@ -33588,7 +33588,7 @@
 <Song Dir='Songs/ITL Online 2026/[07] Tippy Toes (SH) [Highflyer]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
 <LastPlayed>2026-04-02</LastPlayed>
 <HighGrade>Tier02</HighGrade>
 <HighScore>
@@ -39531,6 +39531,65 @@
 <Mines>26</Mines>
 <Hands>0</Hands>
 <Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/ITL Online 2026/[12] fairly brave (SH) [sangyule]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-04-02</LastPlayed>
+<HighGrade>Tier08</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier08</Grade>
+<Score>155</Score>
+<PercentDP>0.881200</PercentDP>
+<SurviveSeconds>135.175827</SurviveSeconds>
+<MaxCombo>273</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m700, 30% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-02 21:02:03</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>10</Miss>
+<W5>2</W5>
+<W4>1</W4>
+<W3>51</W3>
+<W2>143</W2>
+<W1>550</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>73</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.914975</Stream>
+<Voltage>0.326676</Voltage>
+<Air>0.935484</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.881205</Chaos>
+<Notes>775.000000</Notes>
+<TapsAndHolds>745</TapsAndHolds>
+<Jumps>30</Jumps>
+<Holds>70</Holds>
+<Mines>4</Mines>
+<Hands>0</Hands>
+<Rolls>3</Rolls>
 <Lifts>0</Lifts>
 <Fakes>0</Fakes>
 </RadarValues>
@@ -51374,6 +51433,6 @@
 <CaloriesBurned Date='2026-03-30'>50.048485</CaloriesBurned>
 <CaloriesBurned Date='2026-03-31'>696.819824</CaloriesBurned>
 <CaloriesBurned Date='2026-04-01'>927.596924</CaloriesBurned>
-<CaloriesBurned Date='2026-04-02'>1013.816650</CaloriesBurned>
+<CaloriesBurned Date='2026-04-02'>1082.714844</CaloriesBurned>
 </CalorieData>
 </Stats>
