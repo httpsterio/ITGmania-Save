@@ -18,57 +18,57 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>259</TotalSessions>
-<TotalSessionSeconds>80648</TotalSessionSeconds>
-<TotalGameplaySeconds>46731</TotalGameplaySeconds>
-<TotalCaloriesBurned>15736.922852</TotalCaloriesBurned>
+<TotalSessions>260</TotalSessions>
+<TotalSessionSeconds>81352</TotalSessionSeconds>
+<TotalGameplaySeconds>46963</TotalGameplaySeconds>
+<TotalCaloriesBurned>15823.545898</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
 <LastPlayedDate>2026-04-06</LastPlayedDate>
-<TotalDancePoints>1023759</TotalDancePoints>
+<TotalDancePoints>1029562</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>143</NumToasties>
-<TotalTapsAndHolds>197195</TotalTapsAndHolds>
-<TotalJumps>9249</TotalJumps>
-<TotalHolds>20021</TotalHolds>
+<NumToasties>144</NumToasties>
+<TotalTapsAndHolds>198330</TotalTapsAndHolds>
+<TotalJumps>9260</TotalJumps>
+<TotalHolds>20122</TotalHolds>
 <TotalRolls>1905</TotalRolls>
-<TotalMines>5631</TotalMines>
+<TotalMines>5671</TotalMines>
 <TotalHands>508</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>381</Regular>
+<Regular>383</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>381</Style>
+<Style Game='dance' Style='single'>383</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Challenge>381</Challenge>
+<Challenge>383</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter7>47</Meter7>
 <Meter8>42</Meter8>
-<Meter9>103</Meter9>
+<Meter9>105</Meter9>
 <Meter10>103</Meter10>
 <Meter11>66</Meter11>
 <Meter12>16</Meter12>
 <Meter13>2</Meter13>
 <Meter14>2</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>381</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>383</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>355</Regular>
+<Regular>356</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier02>36</Tier02>
 <Tier03>62</Tier03>
 <Tier04>88</Tier04>
 <Tier05>54</Tier05>
-<Tier06>30</Tier06>
+<Tier06>31</Tier06>
 <Tier07>43</Tier07>
 <Tier08>20</Tier08>
 <Tier09>8</Tier09>
@@ -2794,8 +2794,8 @@
 <Song Dir='Songs/ITL Online 2025/[09] Kissing Game (SX) [Exschwasion]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>2</NumTimesPlayed>
-<LastPlayed>2025-11-07</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2026-04-06</LastPlayed>
 <HighGrade>Tier02</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -3719,8 +3719,8 @@
 <Song Dir='Songs/ITL Online 2025/[09] unlucky number (SH) [Valex]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>7</NumTimesPlayed>
-<LastPlayed>2026-03-30</LastPlayed>
+<NumTimesPlayed>8</NumTimesPlayed>
+<LastPlayed>2026-04-06</LastPlayed>
 <HighGrade>Tier03</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -14252,8 +14252,8 @@
 <Song Dir='Songs/ITL Online 2026/[09] Kashika (SX) [Gpop]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>21</NumTimesPlayed>
-<LastPlayed>2026-04-03</LastPlayed>
+<NumTimesPlayed>22</NumTimesPlayed>
+<LastPlayed>2026-04-06</LastPlayed>
 <HighGrade>Tier05</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -19936,8 +19936,8 @@
 <Song Dir='Songs/ITL Online 2026/[12] I GOT THE FEELIN (SX) [Panko]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>2</NumTimesPlayed>
-<LastPlayed>2026-04-01</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2026-04-06</LastPlayed>
 <HighGrade>Tier11</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -20003,8 +20003,8 @@
 <Song Dir='Songs/ITL Online 2026/[12] Live Nor Die - Nhato Remix (SX) [Kingly]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-04-03</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-04-06</LastPlayed>
 <HighGrade>Tier13</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -20335,6 +20335,65 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/In The Groove/Disconnected/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-04-06</LastPlayed>
+<HighGrade>Tier06</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier06</Grade>
+<Score>100</Score>
+<PercentDP>0.920600</PercentDP>
+<SurviveSeconds>121.468117</SurviveSeconds>
+<MaxCombo>262</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m550, 25% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-06 22:09:54</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>3</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>22</W3>
+<W2>111</W2>
+<W1>457</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>27</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.956954</Stream>
+<Voltage>0.452274</Voltage>
+<Air>0.909091</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.920645</Chaos>
+<Notes>601.000000</Notes>
+<TapsAndHolds>590</TapsAndHolds>
+<Jumps>11</Jumps>
+<Holds>27</Holds>
+<Mines>40</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/In The Groove/Pandemonium/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -20379,7 +20438,7 @@
 <CaloriesBurned Date='2026-04-02'>1082.714844</CaloriesBurned>
 <CaloriesBurned Date='2026-04-03'>1108.096924</CaloriesBurned>
 <CaloriesBurned Date='2026-04-05'>877.442505</CaloriesBurned>
-<CaloriesBurned Date='2026-04-06'>1002.638977</CaloriesBurned>
+<CaloriesBurned Date='2026-04-06'>1089.262329</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
@@ -20414,8 +20473,8 @@
 <Week19Ago>0</Week19Ago>
 <Week20Ago>0</Week20Ago>
 <Week21Ago>0</Week21Ago>
-<Week22Ago>1</Week22Ago>
-<Week23Ago>0</Week23Ago>
+<Week22Ago>0</Week22Ago>
+<Week23Ago>1</Week23Ago>
 <Week24Ago>0</Week24Ago>
 <Week25Ago>0</Week25Ago>
 <Week26Ago>0</Week26Ago>

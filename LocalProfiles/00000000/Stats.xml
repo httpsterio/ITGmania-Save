@@ -16,46 +16,46 @@
 <LastDifficulty>Challenge</LastDifficulty>
 <LastCourseDifficulty>Medium</LastCourseDifficulty>
 <LastStepsType>dance-single</LastStepsType>
-<Song Dir='Songs/ITL Online 2026/[11] First Rendezvous (SX) [Talkion]/'/>
+<Song Dir='Songs/In The Groove/Disconnected/'/>
 <Course Path='Courses/Tampere 10th Dan.crs'/>
-<CurrentCombo>27</CurrentCombo>
+<CurrentCombo>45</CurrentCombo>
 <TotalSessions>85</TotalSessions>
-<TotalSessionSeconds>230524</TotalSessionSeconds>
-<TotalGameplaySeconds>139860</TotalGameplaySeconds>
-<TotalCaloriesBurned>38828.628906</TotalCaloriesBurned>
+<TotalSessionSeconds>231228</TotalSessionSeconds>
+<TotalGameplaySeconds>140092</TotalGameplaySeconds>
+<TotalCaloriesBurned>38915.253906</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
 <LastPlayedDate>2026-04-06</LastPlayedDate>
-<TotalDancePoints>2710119</TotalDancePoints>
+<TotalDancePoints>2715922</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>366</NumToasties>
-<TotalTapsAndHolds>524341</TotalTapsAndHolds>
-<TotalJumps>25862</TotalJumps>
-<TotalHolds>49293</TotalHolds>
+<NumToasties>367</NumToasties>
+<TotalTapsAndHolds>525476</TotalTapsAndHolds>
+<TotalJumps>25873</TotalJumps>
+<TotalHolds>49394</TotalHolds>
 <TotalRolls>4309</TotalRolls>
-<TotalMines>13032</TotalMines>
+<TotalMines>13072</TotalMines>
 <TotalHands>808</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers>
-<dance>NoHideLights, m620, Overhead</dance>
+<dance>NoHideLights, m550, Overhead</dance>
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>1111</Regular>
+<Regular>1113</Regular>
 <Nonstop>35</Nonstop>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>1146</Style>
+<Style Game='dance' Style='single'>1148</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
 <Beginner>12</Beginner>
 <Easy>11</Easy>
 <Medium>12</Medium>
 <Hard>155</Hard>
-<Challenge>956</Challenge>
+<Challenge>958</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>6</Meter1>
@@ -66,16 +66,16 @@
 <Meter6>11</Meter6>
 <Meter7>265</Meter7>
 <Meter8>248</Meter8>
-<Meter9>296</Meter9>
+<Meter9>298</Meter9>
 <Meter10>190</Meter10>
 <Meter11>93</Meter11>
 <Meter12>18</Meter12>
 <Meter13>2</Meter13>
 <Meter14>2</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>1146</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>1148</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>1066</Regular>
+<Regular>1067</Regular>
 <Nonstop>9</Nonstop>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
@@ -83,7 +83,7 @@
 <Tier03>202</Tier03>
 <Tier04>296</Tier04>
 <Tier05>149</Tier05>
-<Tier06>116</Tier06>
+<Tier06>117</Tier06>
 <Tier07>106</Tier07>
 <Tier08>60</Tier08>
 <Tier09>26</Tier09>
@@ -18017,8 +18017,8 @@
 <Song Dir='Songs/ITL Online 2025/[09] Kissing Game (SX) [Exschwasion]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>7</NumTimesPlayed>
-<LastPlayed>2025-11-07</LastPlayed>
+<NumTimesPlayed>8</NumTimesPlayed>
+<LastPlayed>2026-04-06</LastPlayed>
 <HighGrade>Tier02</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -18211,6 +18211,56 @@
 <TapsAndHolds>608</TapsAndHolds>
 <Jumps>0</Jumps>
 <Holds>90</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Failed</Grade>
+<Score>76</Score>
+<PercentDP>0.844900</PercentDP>
+<SurviveSeconds>111.628601</SurviveSeconds>
+<MaxCombo>545</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m620, 25% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-06 22:00:51</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>9</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>2</W3>
+<W2>32</W2>
+<W1>511</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>74</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.893092</Stream>
+<Voltage>0.886516</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.822222</Freeze>
+<Chaos>0.844986</Chaos>
+<Notes>545.000000</Notes>
+<TapsAndHolds>545</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>74</Holds>
 <Mines>0</Mines>
 <Hands>0</Hands>
 <Rolls>0</Rolls>
@@ -22282,8 +22332,8 @@
 <Song Dir='Songs/ITL Online 2025/[09] unlucky number (SH) [Valex]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>16</NumTimesPlayed>
-<LastPlayed>2026-03-30</LastPlayed>
+<NumTimesPlayed>17</NumTimesPlayed>
+<LastPlayed>2026-04-06</LastPlayed>
 <HighGrade>Tier02</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -37302,8 +37352,8 @@
 <Song Dir='Songs/ITL Online 2026/[09] Kashika (SX) [Gpop]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>21</NumTimesPlayed>
-<LastPlayed>2026-04-03</LastPlayed>
+<NumTimesPlayed>22</NumTimesPlayed>
+<LastPlayed>2026-04-06</LastPlayed>
 <HighGrade>Tier05</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -43279,8 +43329,8 @@
 <Song Dir='Songs/ITL Online 2026/[12] I GOT THE FEELIN (SX) [Panko]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>2</NumTimesPlayed>
-<LastPlayed>2026-04-01</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2026-04-06</LastPlayed>
 <HighGrade>Tier11</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -43447,8 +43497,8 @@
 <Song Dir='Songs/ITL Online 2026/[12] Live Nor Die - Nhato Remix (SX) [Kingly]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-04-03</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-04-06</LastPlayed>
 <HighGrade>Tier13</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
@@ -50469,6 +50519,63 @@
 </HighScore>
 </HighScoreList>
 </Steps>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-04-06</LastPlayed>
+<HighGrade>Tier06</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier06</Grade>
+<Score>100</Score>
+<PercentDP>0.920600</PercentDP>
+<SurviveSeconds>121.468117</SurviveSeconds>
+<MaxCombo>262</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m550, 25% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-06 22:09:54</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>3</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>22</W3>
+<W2>111</W2>
+<W1>457</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>27</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.956954</Stream>
+<Voltage>0.452274</Voltage>
+<Air>0.909091</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.920645</Chaos>
+<Notes>601.000000</Notes>
+<TapsAndHolds>590</TapsAndHolds>
+<Jumps>11</Jumps>
+<Holds>27</Holds>
+<Mines>40</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
 </Song>
 <Song Dir='Songs/In The Groove/Do U Love Me/'>
 <Steps Difficulty='Medium' StepsType='dance-single'>
@@ -55523,6 +55630,6 @@
 <CaloriesBurned Date='2026-04-02'>1082.714844</CaloriesBurned>
 <CaloriesBurned Date='2026-04-03'>1108.096924</CaloriesBurned>
 <CaloriesBurned Date='2026-04-05'>877.442505</CaloriesBurned>
-<CaloriesBurned Date='2026-04-06'>1002.638977</CaloriesBurned>
+<CaloriesBurned Date='2026-04-06'>1089.262329</CaloriesBurned>
 </CalorieData>
 </Stats>
