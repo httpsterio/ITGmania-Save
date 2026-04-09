@@ -16,46 +16,46 @@
 <LastDifficulty>Challenge</LastDifficulty>
 <LastCourseDifficulty>Medium</LastCourseDifficulty>
 <LastStepsType>dance-single</LastStepsType>
-<Song Dir='Songs/ITL Online 2026/[11] Asphalt Crack (SX) [KAYSTAR]/'/>
+<Song Dir='Songs/ITL Online 2026/[07] Hydrocity Zone Act 2 (SM) [HellKiteChaos]/'/>
 <Course Path='Courses/Tampere 10th Dan.crs'/>
-<CurrentCombo>12</CurrentCombo>
-<TotalSessions>86</TotalSessions>
-<TotalSessionSeconds>236196</TotalSessionSeconds>
-<TotalGameplaySeconds>142964</TotalGameplaySeconds>
-<TotalCaloriesBurned>39828.664062</TotalCaloriesBurned>
+<CurrentCombo>390</CurrentCombo>
+<TotalSessions>87</TotalSessions>
+<TotalSessionSeconds>236485</TotalSessionSeconds>
+<TotalGameplaySeconds>143207</TotalGameplaySeconds>
+<TotalCaloriesBurned>39875.187500</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
-<LastPlayedDate>2026-04-08</LastPlayedDate>
-<TotalDancePoints>2777632</TotalDancePoints>
+<LastPlayedDate>2026-04-09</LastPlayedDate>
+<TotalDancePoints>2781682</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
-<NumToasties>376</NumToasties>
-<TotalTapsAndHolds>536960</TotalTapsAndHolds>
-<TotalJumps>26501</TotalJumps>
-<TotalHolds>50721</TotalHolds>
+<NumToasties>378</NumToasties>
+<TotalTapsAndHolds>537703</TotalTapsAndHolds>
+<TotalJumps>26533</TotalJumps>
+<TotalHolds>50803</TotalHolds>
 <TotalRolls>4431</TotalRolls>
-<TotalMines>13929</TotalMines>
+<TotalMines>13944</TotalMines>
 <TotalHands>874</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers>
-<dance>NoHideLights, m680, Overhead</dance>
+<dance>NoHideLights, m640, Overhead</dance>
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>1138</Regular>
+<Regular>1140</Regular>
 <Nonstop>35</Nonstop>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>1173</Style>
+<Style Game='dance' Style='single'>1175</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
 <Beginner>12</Beginner>
 <Easy>11</Easy>
 <Medium>12</Medium>
 <Hard>156</Hard>
-<Challenge>982</Challenge>
+<Challenge>984</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>6</Meter1>
@@ -64,7 +64,7 @@
 <Meter4>4</Meter4>
 <Meter5>2</Meter5>
 <Meter6>11</Meter6>
-<Meter7>270</Meter7>
+<Meter7>272</Meter7>
 <Meter8>248</Meter8>
 <Meter9>304</Meter9>
 <Meter10>200</Meter10>
@@ -73,14 +73,14 @@
 <Meter13>2</Meter13>
 <Meter14>2</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>1173</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>1175</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>1090</Regular>
+<Regular>1092</Regular>
 <Nonstop>9</Nonstop>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier02>72</Tier02>
-<Tier03>206</Tier03>
+<Tier03>208</Tier03>
 <Tier04>304</Tier04>
 <Tier05>155</Tier05>
 <Tier06>118</Tier06>
@@ -33867,6 +33867,65 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2026/[07] Hydrocity Zone Act 2 (SM) [HellKiteChaos]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-04-09</LastPlayed>
+<HighGrade>Tier03</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier03</Grade>
+<Score>71</Score>
+<PercentDP>0.980700</PercentDP>
+<SurviveSeconds>124.976807</SurviveSeconds>
+<MaxCombo>390</MaxCombo>
+<StageAward>SingleDigitW3</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m640, 25% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-09 18:55:36</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>2</W3>
+<W2>38</W2>
+<W1>343</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>73</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.994872</Stream>
+<Voltage>1.000000</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.980702</Chaos>
+<Notes>390.000000</Notes>
+<TapsAndHolds>383</TapsAndHolds>
+<Jumps>7</Jumps>
+<Holds>73</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/ITL Online 2026/[07] Lost Woods (SM) [HellKiteChaos]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -34224,8 +34283,59 @@
 <Song Dir='Songs/ITL Online 2026/[07] Outlaw (SM) [mdx]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>4</NumTimesPlayed>
-<LastPlayed>2026-04-08</LastPlayed>
+<NumTimesPlayed>5</NumTimesPlayed>
+<LastPlayed>2026-04-09</LastPlayed>
+<HighGrade>Tier03</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier03</Grade>
+<Score>54</Score>
+<PercentDP>0.983100</PercentDP>
+<SurviveSeconds>119.018654</SurviveSeconds>
+<MaxCombo>385</MaxCombo>
+<StageAward>FullComboW2</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m690, 25% Mini, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-09 18:53:03</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>0</W3>
+<W2>31</W2>
+<W1>329</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>9</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>1.000000</Stream>
+<Voltage>0.999803</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.983198</Chaos>
+<Notes>385.000000</Notes>
+<TapsAndHolds>360</TapsAndHolds>
+<Jumps>25</Jumps>
+<Holds>9</Holds>
+<Mines>15</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 </HighScoreList>
 </Steps>
 </Song>
@@ -56924,5 +57034,6 @@
 <CaloriesBurned Date='2026-04-05'>877.442505</CaloriesBurned>
 <CaloriesBurned Date='2026-04-06'>1089.262329</CaloriesBurned>
 <CaloriesBurned Date='2026-04-08'>913.418579</CaloriesBurned>
+<CaloriesBurned Date='2026-04-09'>46.521873</CaloriesBurned>
 </CalorieData>
 </Stats>
