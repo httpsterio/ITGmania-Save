@@ -1620,6 +1620,33 @@
          "points" : 2856,
          "usedCmod" : false
       },
+      "5505f0af1503c72a" : {
+         "clearType" : 1,
+         "date" : "2026-04-14",
+         "ex" : 8974,
+         "judgments" : {
+            "Holds" : 85,
+            "Mines" : 0,
+            "Miss" : 2,
+            "Rolls" : 0,
+            "W0" : 309,
+            "W1" : 81,
+            "W2" : 68,
+            "W3" : 8,
+            "W4" : 1,
+            "W5" : 1,
+            "totalHolds" : 86,
+            "totalMines" : 34,
+            "totalRolls" : 0,
+            "totalSteps" : 470
+         },
+         "maxPoints" : 3403,
+         "maxScoringPoints" : 2047,
+         "noCmod" : false,
+         "passingPoints" : 1356,
+         "points" : 2150,
+         "usedCmod" : false
+      },
       "555ebf1c1b85a26d" : {
          "clearType" : 2,
          "date" : "2026-04-14",
@@ -2079,6 +2106,33 @@
          "points" : 2585,
          "usedCmod" : false
       },
+      "6cc2199c7d24f0c0" : {
+         "clearType" : 1,
+         "date" : "2026-04-14",
+         "ex" : 8273,
+         "judgments" : {
+            "Holds" : 51,
+            "Mines" : 2,
+            "Miss" : 11,
+            "Rolls" : 6,
+            "W0" : 314,
+            "W1" : 136,
+            "W2" : 132,
+            "W3" : 28,
+            "W4" : 3,
+            "W5" : 0,
+            "totalHolds" : 51,
+            "totalMines" : 37,
+            "totalRolls" : 6,
+            "totalSteps" : 624
+         },
+         "maxPoints" : 5643,
+         "maxScoringPoints" : 3386,
+         "noCmod" : false,
+         "passingPoints" : 2257,
+         "points" : 2945,
+         "usedCmod" : false
+      },
       "6d0f1e90897e554c" : {
          "clearType" : 1,
          "date" : "2026-04-11",
@@ -2185,6 +2239,33 @@
          "noCmod" : true,
          "passingPoints" : 1378,
          "points" : 1989,
+         "usedCmod" : false
+      },
+      "76a7a64cebb363e3" : {
+         "clearType" : 1,
+         "date" : "2026-04-14",
+         "ex" : 7712,
+         "judgments" : {
+            "Holds" : 93,
+            "Mines" : 0,
+            "Miss" : 16,
+            "Rolls" : 29,
+            "W0" : 267,
+            "W1" : 107,
+            "W2" : 131,
+            "W3" : 75,
+            "W4" : 3,
+            "W5" : 1,
+            "totalHolds" : 93,
+            "totalMines" : 36,
+            "totalRolls" : 30,
+            "totalSteps" : 600
+         },
+         "maxPoints" : 5517,
+         "maxScoringPoints" : 3310,
+         "noCmod" : true,
+         "passingPoints" : 2207,
+         "points" : 2607,
          "usedCmod" : false
       },
       "777eebf65a673904" : {
@@ -3078,6 +3159,33 @@
          "points" : 1027,
          "usedCmod" : false
       },
+      "a98d361e86267c40" : {
+         "clearType" : 1,
+         "date" : "2026-04-14",
+         "ex" : 9051,
+         "judgments" : {
+            "Holds" : 57,
+            "Mines" : 0,
+            "Miss" : 1,
+            "Rolls" : 0,
+            "W0" : 284,
+            "W1" : 84,
+            "W2" : 53,
+            "W3" : 8,
+            "W4" : 0,
+            "W5" : 1,
+            "totalHolds" : 57,
+            "totalMines" : 0,
+            "totalRolls" : 0,
+            "totalSteps" : 431
+         },
+         "maxPoints" : 2648,
+         "maxScoringPoints" : 1609,
+         "noCmod" : false,
+         "passingPoints" : 1039,
+         "points" : 1709,
+         "usedCmod" : false
+      },
       "aa85830042938025" : {
          "clearType" : 2,
          "date" : "2026-04-02",
@@ -3589,6 +3697,33 @@
          "noCmod" : false,
          "passingPoints" : 913,
          "points" : 1837,
+         "usedCmod" : false
+      },
+      "cf9d7b07ea22ec4d" : {
+         "clearType" : 1,
+         "date" : "2026-04-14",
+         "ex" : 8678,
+         "judgments" : {
+            "Holds" : 35,
+            "Mines" : 0,
+            "Miss" : 4,
+            "Rolls" : 0,
+            "W0" : 321,
+            "W1" : 75,
+            "W2" : 82,
+            "W3" : 26,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 35,
+            "totalMines" : 11,
+            "totalRolls" : 0,
+            "totalSteps" : 508
+         },
+         "maxPoints" : 5537,
+         "maxScoringPoints" : 3322,
+         "noCmod" : false,
+         "passingPoints" : 2215,
+         "points" : 2858,
          "usedCmod" : false
       },
       "d5bd4dd7224f68ff" : {
@@ -4404,6 +4539,7 @@
       "/Songs/ITL Online 2026/[08] PLRAYER (SM) [forcednature]/" : "7a19275f6479f9e6",
       "/Songs/ITL Online 2026/[08] Ravergirl (SM) [djfipu]/" : "5bc79b095c4b46df",
       "/Songs/ITL Online 2026/[08] Samba Do Brasil (SH) [Highflyer]/" : "35bb4cb4e878b7fa",
+      "/Songs/ITL Online 2026/[08] Snow White (SX) [D0omsday]/" : "a98d361e86267c40",
       "/Songs/ITL Online 2026/[08] Spot A Fake (SH) [NOWHERE Dance Club]/" : "3a2c5fb7dc342826",
       "/Songs/ITL Online 2026/[08] Suit Up (SM) [Shpadoinkle]/" : "9d568ff9fa0bd946",
       "/Songs/ITL Online 2026/[08] The Sun (SH) [Flood_]/" : "1ddece43ec8c352f",
@@ -4450,6 +4586,7 @@
       "/Songs/ITL Online 2026/[09] The One (SH) [MoistBruh & Ricky]/" : "53e1ffec36e754c1",
       "/Songs/ITL Online 2026/[09] Timeless (SH) [M. Ruggiero]/" : "06a189a5ada96086",
       "/Songs/ITL Online 2026/[09] Too Much (SX) [CondorTalon]/" : "600bb6fe4dc92afa",
+      "/Songs/ITL Online 2026/[09] WARNINGxWARNINGxWARNING (SX) [djfipu]/" : "5505f0af1503c72a",
       "/Songs/ITL Online 2026/[09] Wonderful Powerful Music (SX) [Create!]/" : "3e004936c632c8d8",
       "/Songs/ITL Online 2026/[09] Yay! Yay! Yay! (SX) [Create!]/" : "3bb3a7be5b32b69a",
       "/Songs/ITL Online 2026/[09] stayinit (SH) [dimo]/" : "7bca0230416732a3",
@@ -4494,7 +4631,10 @@
       "/Songs/ITL Online 2026/[10] Yume enishi (SH) [forcednature]/" : "93f26c088b77d22c",
       "/Songs/ITL Online 2026/[10] media offline (SM) [Snap]/" : "c9e45c5e534f058d",
       "/Songs/ITL Online 2026/[11] 0x1311 (SX) [Scrypts]/" : "777eebf65a673904",
+      "/Songs/ITL Online 2026/[11] 101 Kittens (SX) [Scrypts]/" : "cf9d7b07ea22ec4d",
+      "/Songs/ITL Online 2026/[11] Another Day (SX) [CopperPuppy & Kerpa]/" : "6cc2199c7d24f0c0",
       "/Songs/ITL Online 2026/[11] Asphalt Crack (SX) [KAYSTAR]/" : "357a3c627b980d7d",
+      "/Songs/ITL Online 2026/[11] Cage the Rage (SX) [mdx]/" : "76a7a64cebb363e3",
       "/Songs/ITL Online 2026/[11] Can't Find The Words (SH) [altic]/" : "37402b939b69c04e",
       "/Songs/ITL Online 2026/[11] Facts (SX) [Blizzrdball]/" : "4e1760756a42d9b1",
       "/Songs/ITL Online 2026/[11] First Rendezvous (SX) [Talkion]/" : "140621df6231ba2a",
@@ -4549,6 +4689,8 @@
       "[11] saving flowers (with Rina Sawayama) (SX) [Ritz]" : true,
       "[12] Lawes's Parotia (SX) [Gameoson]" : true,
       "[12] Mare Maris (SX) [mute & Yosefu]" : true,
-      "[12] PURE SILVER (SX) [cmmf]" : true
+      "[12] PURE SILVER (SX) [cmmf]" : true,
+      "[12] SALMON CANNON (ITL2026 Edit) (SX) [vultureeeeee]" : true,
+      "[13] Dark Sheep (SX) [KAYSTAR]" : true
    }
 }
