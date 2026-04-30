@@ -216,6 +216,33 @@
          "points" : 2977,
          "usedCmod" : false
       },
+      "08c4967a176d6578" : {
+         "clearType" : 1,
+         "date" : "2026-04-28",
+         "ex" : 7075,
+         "judgments" : {
+            "Holds" : 24,
+            "Mines" : 0,
+            "Miss" : 36,
+            "Rolls" : 3,
+            "W0" : 265,
+            "W1" : 115,
+            "W2" : 210,
+            "W3" : 95,
+            "W4" : 4,
+            "W5" : 0,
+            "totalHolds" : 24,
+            "totalMines" : 30,
+            "totalRolls" : 3,
+            "totalSteps" : 725
+         },
+         "maxPoints" : 6318,
+         "maxScoringPoints" : 3707,
+         "noCmod" : false,
+         "passingPoints" : 2611,
+         "points" : 2860,
+         "usedCmod" : false
+      },
       "08e4500f6a55a14c" : {
          "clearType" : 2,
          "date" : "2026-04-05",
@@ -862,6 +889,33 @@
          "noCmod" : false,
          "passingPoints" : 1723,
          "points" : 2681,
+         "usedCmod" : false
+      },
+      "22fb20e8bb795966" : {
+         "clearType" : 1,
+         "date" : "2026-04-28",
+         "ex" : 8828,
+         "judgments" : {
+            "Holds" : 161,
+            "Mines" : 0,
+            "Miss" : 2,
+            "Rolls" : 9,
+            "W0" : 286,
+            "W1" : 103,
+            "W2" : 81,
+            "W3" : 16,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 161,
+            "totalMines" : 34,
+            "totalRolls" : 9,
+            "totalSteps" : 488
+         },
+         "maxPoints" : 5750,
+         "maxScoringPoints" : 3735,
+         "noCmod" : true,
+         "passingPoints" : 2015,
+         "points" : 2891,
          "usedCmod" : false
       },
       "234d15be55e50eed" : {
@@ -5597,6 +5651,7 @@
       "/Songs/ITL Online 2026/[10] Igaku (SH) [mang]/" : "df115cf485fc76d6",
       "/Songs/ITL Online 2026/[10] Kyu-kurarin (SH) [RakkiiCB]/" : "9421318918a603ba",
       "/Songs/ITL Online 2026/[10] MANTIS RITUAL (SM) [RakkiiCB]/" : "96b4f38cb45def7e",
+      "/Songs/ITL Online 2026/[10] Mantis (SX) [Implode]/" : "22fb20e8bb795966",
       "/Songs/ITL Online 2026/[10] Meant 2 Be (SX) [Highflyer]/" : "48c1b29a9111e310",
       "/Songs/ITL Online 2026/[10] Mellann (SX) [mute]/" : "63c8c2c61a1527f6",
       "/Songs/ITL Online 2026/[10] Miracle Link Ring (SX) [Create!]/" : "fc01df123247b4cc",
@@ -5656,6 +5711,7 @@
       "/Songs/ITL Online 2026/[12] I GOT THE FEELIN (SX) [Panko]/" : "3985ed1ef8e22dcd",
       "/Songs/ITL Online 2026/[12] Kamaitachi (SX) [mudkyp]/" : "1e1bcdf595ea2bb0",
       "/Songs/ITL Online 2026/[12] Live Nor Die - Nhato Remix (SX) [Kingly]/" : "0152ada1fe1e2ebf",
+      "/Songs/ITL Online 2026/[12] Techno Style Essentials (SX) [Sudzi781]/" : "08c4967a176d6578",
       "/Songs/ITL Online 2026/[12] fairly brave (SH) [sangyule]/" : "304174e12b8f7534",
       "/Songs/ITL Online 2026/[13] shake!the!city! (SX) [Kigha]/" : "34d9dc31f7ddfae9"
    },

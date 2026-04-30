@@ -16,46 +16,46 @@
 <LastDifficulty>Challenge</LastDifficulty>
 <LastCourseDifficulty>Medium</LastCourseDifficulty>
 <LastStepsType>dance-single</LastStepsType>
-<Song Dir='Songs/ITL Online 2026/[11] Cage the Rage (SX) [mdx]/'/>
+<Song Dir='Songs/ITL Online 2026/[12] Techno Style Essentials (SX) [Sudzi781]/'/>
 <Course Path='Courses/Tampere 10th Dan.crs'/>
-<CurrentCombo>31</CurrentCombo>
+<CurrentCombo>1</CurrentCombo>
 <TotalSessions>95</TotalSessions>
-<TotalSessionSeconds>282047</TotalSessionSeconds>
-<TotalGameplaySeconds>168212</TotalGameplaySeconds>
-<TotalCaloriesBurned>47762.855469</TotalCaloriesBurned>
+<TotalSessionSeconds>282613</TotalSessionSeconds>
+<TotalGameplaySeconds>168603</TotalGameplaySeconds>
+<TotalCaloriesBurned>47892.781250</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>aa65a9202b9f48d5</LastPlayedMachineGuid>
 <LastPlayedDate>2026-04-28</LastPlayedDate>
-<TotalDancePoints>3324562</TotalDancePoints>
+<TotalDancePoints>3333312</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>446</NumToasties>
-<TotalTapsAndHolds>641491</TotalTapsAndHolds>
-<TotalJumps>31437</TotalJumps>
-<TotalHolds>62196</TotalHolds>
-<TotalRolls>5294</TotalRolls>
-<TotalMines>17259</TotalMines>
-<TotalHands>1249</TotalHands>
+<TotalTapsAndHolds>643149</TotalTapsAndHolds>
+<TotalJumps>31567</TotalJumps>
+<TotalHolds>62539</TotalHolds>
+<TotalRolls>5314</TotalRolls>
+<TotalMines>17356</TotalMines>
+<TotalHands>1356</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers>
 <dance>NoHideLights, m650, Overhead</dance>
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>1353</Regular>
+<Regular>1356</Regular>
 <Nonstop>35</Nonstop>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>1388</Style>
+<Style Game='dance' Style='single'>1391</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
 <Beginner>12</Beginner>
 <Easy>11</Easy>
 <Medium>12</Medium>
 <Hard>156</Hard>
-<Challenge>1197</Challenge>
+<Challenge>1200</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>6</Meter1>
@@ -67,30 +67,30 @@
 <Meter7>296</Meter7>
 <Meter8>281</Meter8>
 <Meter9>353</Meter9>
-<Meter10>272</Meter10>
+<Meter10>274</Meter10>
 <Meter11>129</Meter11>
-<Meter12>20</Meter12>
+<Meter12>21</Meter12>
 <Meter13>2</Meter13>
 <Meter14>2</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>1388</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>1391</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>1295</Regular>
+<Regular>1298</Regular>
 <Nonstop>9</Nonstop>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier02>85</Tier02>
 <Tier03>238</Tier03>
 <Tier04>362</Tier04>
-<Tier05>190</Tier05>
+<Tier05>191</Tier05>
 <Tier06>136</Tier06>
-<Tier07>128</Tier07>
+<Tier07>129</Tier07>
 <Tier08>72</Tier08>
 <Tier09>32</Tier09>
 <Tier10>27</Tier10>
 <Tier11>20</Tier11>
 <Tier12>7</Tier12>
-<Tier13>4</Tier13>
+<Tier13>5</Tier13>
 <Tier14>2</Tier14>
 <Tier15>1</Tier15>
 </NumStagesPassedByGrade>
@@ -48687,6 +48687,115 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/ITL Online 2026/[10] Mantis (SX) [Implode]/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-04-28</LastPlayed>
+<HighGrade>Tier05</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier05</Grade>
+<Score>103</Score>
+<PercentDP>0.950400</PercentDP>
+<SurviveSeconds>139.436691</SurviveSeconds>
+<MaxCombo>347</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m650, 35% Mini, Cover, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-28 22:04:24</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>16</W3>
+<W2>81</W2>
+<W1>389</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>170</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.947653</Stream>
+<Voltage>0.657463</Voltage>
+<Air>0.848485</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.950456</Chaos>
+<Notes>552.000000</Notes>
+<TapsAndHolds>486</TapsAndHolds>
+<Jumps>65</Jumps>
+<Holds>161</Holds>
+<Mines>34</Mines>
+<Hands>58</Hands>
+<Rolls>9</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier07</Grade>
+<Score>98</Score>
+<PercentDP>0.908800</PercentDP>
+<SurviveSeconds>139.431946</SurviveSeconds>
+<MaxCombo>164</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m650, 35% Mini, Cover, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-28 22:01:28</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>1</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>30</W3>
+<W2>99</W2>
+<W1>354</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>166</Held>
+<MissedHold>3</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.911552</Stream>
+<Voltage>0.345337</Voltage>
+<Air>0.787879</Air>
+<Freeze>0.981366</Freeze>
+<Chaos>0.908815</Chaos>
+<Notes>547.000000</Notes>
+<TapsAndHolds>483</TapsAndHolds>
+<Jumps>62</Jumps>
+<Holds>158</Holds>
+<Mines>33</Mines>
+<Hands>49</Hands>
+<Rolls>8</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/ITL Online 2026/[10] Meant 2 Be (SX) [Highflyer]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
@@ -55946,8 +56055,59 @@
 <Song Dir='Songs/ITL Online 2026/[12] Techno Style Essentials (SX) [Sudzi781]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-04-11</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-04-28</LastPlayed>
+<HighGrade>Tier13</HighGrade>
+<HighScore>
+<Name>HTTP</Name>
+<Grade>Tier13</Grade>
+<Score>115</Score>
+<PercentDP>0.700200</PercentDP>
+<SurviveSeconds>113.511986</SurviveSeconds>
+<MaxCombo>79</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m650, 35% Mini, Cover, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-28 22:06:55</DateTime>
+<PlayerGuid>aef14652036e6371</PlayerGuid>
+<MachineGuid>aa65a9202b9f48d5</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>36</Miss>
+<W5>0</W5>
+<W4>4</W4>
+<W3>95</W3>
+<W2>210</W2>
+<W1>380</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>27</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.814560</Stream>
+<Voltage>0.133300</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.700266</Chaos>
+<Notes>692.000000</Notes>
+<TapsAndHolds>689</TapsAndHolds>
+<Jumps>3</Jumps>
+<Holds>24</Holds>
+<Mines>30</Mines>
+<Hands>0</Hands>
+<Rolls>3</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 </HighScoreList>
 </Steps>
 </Song>
@@ -68410,6 +68570,6 @@
 <CaloriesBurned Date='2026-04-14'>1552.930664</CaloriesBurned>
 <CaloriesBurned Date='2026-04-18'>1019.387207</CaloriesBurned>
 <CaloriesBurned Date='2026-04-27'>871.720520</CaloriesBurned>
-<CaloriesBurned Date='2026-04-28'>1132.941284</CaloriesBurned>
+<CaloriesBurned Date='2026-04-28'>1262.866455</CaloriesBurned>
 </CalorieData>
 </Stats>
