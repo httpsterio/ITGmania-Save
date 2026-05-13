@@ -1,0 +1,38 @@
+{
+   "fixedEx" : true,
+   "fixedEx2024" : true,
+   "fixedLamps" : true,
+   "fixedPoints" : true,
+   "fixedStepsType" : true,
+   "hashMap" : {
+      "391d53a0a7f2a2f7" : {
+         "clearType" : 1,
+         "date" : "",
+         "ex" : 8937,
+         "judgments" : [],
+         "noCmod" : false,
+         "points" : 0,
+         "rank" : 1,
+         "stepsType" : "single",
+         "usedCmod" : false
+      },
+      "dd459db6d3cb3ce8" : {
+         "clearType" : 1,
+         "date" : "",
+         "ex" : 9011,
+         "judgments" : [],
+         "maxPoints" : 0,
+         "noCmod" : false,
+         "points" : 0,
+         "rank" : 2,
+         "stepsType" : "single",
+         "usedCmod" : false
+      }
+   },
+   "pathMap" : {
+      "/Songs/ITL Online 2026/[10] Dummy! (SX) [gooseguy123]/" : "dd459db6d3cb3ce8"
+   },
+   "points" : [ 0, 0 ],
+   "pointsDouble" : [],
+   "pointsSingle" : [ 0, 0 ]
+}
