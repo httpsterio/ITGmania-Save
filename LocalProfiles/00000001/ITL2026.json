@@ -1,0 +1,91 @@
+{
+   "hashMap" : {
+      "3527156a8a927fef" : {
+         "clearType" : 2,
+         "date" : "2026-05-14",
+         "ex" : 9453,
+         "judgments" : {
+            "Holds" : 55,
+            "Mines" : 0,
+            "Miss" : 0,
+            "Rolls" : 2,
+            "W0" : 520,
+            "W1" : 134,
+            "W2" : 45,
+            "W3" : 1,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 55,
+            "totalMines" : 0,
+            "totalRolls" : 2,
+            "totalSteps" : 700
+         },
+         "maxPoints" : 4208,
+         "maxScoringPoints" : 2522,
+         "noCmod" : false,
+         "passingPoints" : 1686,
+         "points" : 3142,
+         "usedCmod" : false
+      },
+      "8da25eaf1df5e99b" : {
+         "clearType" : 2,
+         "date" : "2026-05-14",
+         "ex" : 9114,
+         "judgments" : {
+            "Holds" : 19,
+            "Mines" : 0,
+            "Miss" : 0,
+            "Rolls" : 0,
+            "W0" : 515,
+            "W1" : 136,
+            "W2" : 101,
+            "W3" : 7,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 19,
+            "totalMines" : 10,
+            "totalRolls" : 0,
+            "totalSteps" : 759
+         },
+         "maxPoints" : 5182,
+         "maxScoringPoints" : 2927,
+         "noCmod" : false,
+         "passingPoints" : 2255,
+         "points" : 3547,
+         "usedCmod" : false
+      },
+      "abb1ff4abf631de6" : {
+         "clearType" : 2,
+         "date" : "2026-05-14",
+         "ex" : 9433,
+         "judgments" : {
+            "Holds" : 39,
+            "Mines" : 0,
+            "Miss" : 0,
+            "Rolls" : 56,
+            "W0" : 515,
+            "W1" : 107,
+            "W2" : 56,
+            "W3" : 1,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 39,
+            "totalMines" : 0,
+            "totalRolls" : 56,
+            "totalSteps" : 679
+         },
+         "maxPoints" : 5326,
+         "maxScoringPoints" : 3192,
+         "noCmod" : false,
+         "passingPoints" : 2134,
+         "points" : 4026,
+         "usedCmod" : false
+      }
+   },
+   "pathMap" : {
+      "/Songs/ITL Online 2026/[10] Hypnotic (SX) [G. Rosewood]/" : "3527156a8a927fef",
+      "/Songs/ITL Online 2026/[11] Jump Up (SX) [Burner]/" : "abb1ff4abf631de6",
+      "/Songs/ITL Online 2026/[11] f0rbiidden l0ve$tory (SX) [@@]/" : "8da25eaf1df5e99b"
+   },
+   "unlockFolders" : []
+}
