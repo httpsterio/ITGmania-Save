@@ -2377,8 +2377,8 @@
          "usedCmod" : false
       },
       "5a5b3be1c11854f0" : {
-         "clearType" : 1,
-         "date" : "2026-05-14",
+         "clearType" : 2,
+         "date" : "2026-05-24",
          "ex" : 9414,
          "judgments" : {
             "Holds" : 68,
@@ -3510,6 +3510,60 @@
          "points" : 2797,
          "usedCmod" : false
       },
+      "8e48f9c243e7fdc7" : {
+         "clearType" : 1,
+         "date" : "2026-05-24",
+         "ex" : 8556,
+         "judgments" : {
+            "Holds" : 43,
+            "Mines" : 0,
+            "Miss" : 3,
+            "Rolls" : 2,
+            "W0" : 364,
+            "W1" : 129,
+            "W2" : 118,
+            "W3" : 32,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 44,
+            "totalMines" : 19,
+            "totalRolls" : 2,
+            "totalSteps" : 646
+         },
+         "maxPoints" : 5556,
+         "maxScoringPoints" : 3334,
+         "noCmod" : false,
+         "passingPoints" : 2222,
+         "points" : 3102,
+         "usedCmod" : false
+      },
+      "8e74843666ceb4a1" : {
+         "clearType" : 1,
+         "date" : "2026-05-24",
+         "ex" : 8655,
+         "judgments" : {
+            "Holds" : 89,
+            "Mines" : 0,
+            "Miss" : 5,
+            "Rolls" : 5,
+            "W0" : 418,
+            "W1" : 134,
+            "W2" : 129,
+            "W3" : 27,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 92,
+            "totalMines" : 46,
+            "totalRolls" : 5,
+            "totalSteps" : 713
+         },
+         "maxPoints" : 5561,
+         "maxScoringPoints" : 3337,
+         "noCmod" : false,
+         "passingPoints" : 2224,
+         "points" : 3189,
+         "usedCmod" : false
+      },
       "8f93575938869b9d" : {
          "clearType" : 1,
          "date" : "2026-04-14",
@@ -3832,6 +3886,33 @@
          "noCmod" : false,
          "passingPoints" : 1821,
          "points" : 2583,
+         "usedCmod" : false
+      },
+      "973cadd4bcd38031" : {
+         "clearType" : 1,
+         "date" : "2026-05-24",
+         "ex" : 8268,
+         "judgments" : {
+            "Holds" : 57,
+            "Mines" : 0,
+            "Miss" : 11,
+            "Rolls" : 1,
+            "W0" : 281,
+            "W1" : 74,
+            "W2" : 107,
+            "W3" : 32,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 57,
+            "totalMines" : 43,
+            "totalRolls" : 1,
+            "totalSteps" : 505
+         },
+         "maxPoints" : 6777,
+         "maxScoringPoints" : 4066,
+         "noCmod" : false,
+         "passingPoints" : 2711,
+         "points" : 3447,
          "usedCmod" : false
       },
       "9b52e3edafd654dd" : {
@@ -6048,6 +6129,33 @@
          "points" : 3285,
          "usedCmod" : false
       },
+      "f5d3f6ae662d4257" : {
+         "clearType" : 1,
+         "date" : "2026-05-24",
+         "ex" : 8566,
+         "judgments" : {
+            "Holds" : 60,
+            "Mines" : 0,
+            "Miss" : 15,
+            "Rolls" : 1,
+            "W0" : 386,
+            "W1" : 118,
+            "W2" : 106,
+            "W3" : 24,
+            "W4" : 0,
+            "W5" : 1,
+            "totalHolds" : 61,
+            "totalMines" : 13,
+            "totalRolls" : 1,
+            "totalSteps" : 650
+         },
+         "maxPoints" : 5703,
+         "maxScoringPoints" : 3426,
+         "noCmod" : false,
+         "passingPoints" : 2277,
+         "points" : 3189,
+         "usedCmod" : false
+      },
       "f76246343874d008" : {
          "clearType" : 3,
          "date" : "2026-03-31",
@@ -6391,9 +6499,11 @@
       "/Songs/ITL Online 2026/[11] 0x1311 (SX) [Scrypts]/" : "777eebf65a673904",
       "/Songs/ITL Online 2026/[11] 101 Kittens (SX) [Scrypts]/" : "cf9d7b07ea22ec4d",
       "/Songs/ITL Online 2026/[11] 2015 (SX) [altic]/" : "04baccec4b07019a",
+      "/Songs/ITL Online 2026/[11] AWAKEN (SH) [0123]/" : "f5d3f6ae662d4257",
       "/Songs/ITL Online 2026/[11] Acid Drift (SX) [Clionne]/" : "0ab95d94f76b3636",
       "/Songs/ITL Online 2026/[11] Afraid to Feel (SX) [DRILLBOT]/" : "4db723fbdc4085e7",
       "/Songs/ITL Online 2026/[11] All Yours (SX) [Benpai]/" : "fc0c095cde9eb3e2",
+      "/Songs/ITL Online 2026/[11] Alxaid (SH) [cmmf]/" : "8e48f9c243e7fdc7",
       "/Songs/ITL Online 2026/[11] Another Day (SX) [CopperPuppy & Kerpa]/" : "6cc2199c7d24f0c0",
       "/Songs/ITL Online 2026/[11] Asphalt Crack (SX) [KAYSTAR]/" : "357a3c627b980d7d",
       "/Songs/ITL Online 2026/[11] Backstage (SX) [sorae]/" : "849e2a790d6d4fac",
@@ -6422,6 +6532,7 @@
       "/Songs/ITL Online 2026/[11] Nigra Ludia (SX) [Lisek]/" : "f0a1cd619d5a943a",
       "/Songs/ITL Online 2026/[11] OIIA OIIA (SX) [Acegik]/" : "0d20ee8ff5837a50",
       "/Songs/ITL Online 2026/[11] PLEASURE STREAM (SH) [chronon]/" : "39cc7c51ec6d2e03",
+      "/Songs/ITL Online 2026/[11] Pre Paid Pog Punk Panic (SX) [Tetaes]/" : "8e74843666ceb4a1",
       "/Songs/ITL Online 2026/[11] Slow Down (short cut) (SH) [Zetorux + Gazebo, ITL Revise]/" : "c7ea4689f5ae8a49",
       "/Songs/ITL Online 2026/[11] Smalt #28598F (SH) [Valex]/" : "9dfd9e71803cc76d",
       "/Songs/ITL Online 2026/[11] Svensk Sas (SX) [zaniel]/" : "b997734922a1209f",
@@ -6439,6 +6550,7 @@
       "/Songs/ITL Online 2026/[12] Kamaitachi (SX) [mudkyp]/" : "1e1bcdf595ea2bb0",
       "/Songs/ITL Online 2026/[12] Live Nor Die - Nhato Remix (SX) [Kingly]/" : "0152ada1fe1e2ebf",
       "/Songs/ITL Online 2026/[12] Techno Style Essentials (SX) [Sudzi781]/" : "08c4967a176d6578",
+      "/Songs/ITL Online 2026/[12] The Girl Who Glitched (SX) [Wafles]/" : "973cadd4bcd38031",
       "/Songs/ITL Online 2026/[12] fairly brave (SH) [sangyule]/" : "304174e12b8f7534",
       "/Songs/ITL Online 2026/[12] l'amour d'amour (SX) [vultureeeeee]/" : "2f4cc2befd847efd",
       "/Songs/ITL Online 2026/[13] shake!the!city! (SX) [Kigha]/" : "34d9dc31f7ddfae9"
