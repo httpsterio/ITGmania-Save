@@ -6346,17 +6346,17 @@
          "usedCmod" : false
       },
       "f362d8a3b869387d" : {
-         "clearType" : 3,
-         "date" : "2026-06-02",
-         "ex" : 9854,
+         "clearType" : 4,
+         "date" : "2026-06-05",
+         "ex" : 9897,
          "judgments" : {
             "Holds" : 74,
             "Mines" : 0,
             "Miss" : 0,
             "Rolls" : 18,
-            "W0" : 395,
-            "W1" : 35,
-            "W2" : 4,
+            "W0" : 401,
+            "W1" : 33,
+            "W2" : 0,
             "W3" : 0,
             "W4" : 0,
             "W5" : 0,
