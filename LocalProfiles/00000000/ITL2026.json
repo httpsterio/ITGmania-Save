@@ -3159,6 +3159,33 @@
          "points" : 1989,
          "usedCmod" : false
       },
+      "74e1a81e290603fd" : {
+         "clearType" : 1,
+         "date" : "2026-06-05",
+         "ex" : 8447,
+         "judgments" : {
+            "Holds" : 0,
+            "Mines" : 0,
+            "Miss" : 6,
+            "Rolls" : 0,
+            "W0" : 434,
+            "W1" : 161,
+            "W2" : 135,
+            "W3" : 49,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 0,
+            "totalMines" : 0,
+            "totalRolls" : 0,
+            "totalSteps" : 785
+         },
+         "maxPoints" : 6462,
+         "maxScoringPoints" : 3870,
+         "noCmod" : false,
+         "passingPoints" : 2592,
+         "points" : 3515,
+         "usedCmod" : false
+      },
       "76a7a64cebb363e3" : {
          "clearType" : 1,
          "date" : "2026-04-28",
@@ -4642,6 +4669,33 @@
          "noCmod" : false,
          "passingPoints" : 1039,
          "points" : 1709,
+         "usedCmod" : false
+      },
+      "a9bc419389df4ca7" : {
+         "clearType" : 1,
+         "date" : "2026-06-05",
+         "ex" : 8588,
+         "judgments" : {
+            "Holds" : 45,
+            "Mines" : 0,
+            "Miss" : 4,
+            "Rolls" : 0,
+            "W0" : 320,
+            "W1" : 96,
+            "W2" : 111,
+            "W3" : 20,
+            "W4" : 0,
+            "W5" : 0,
+            "totalHolds" : 45,
+            "totalMines" : 0,
+            "totalRolls" : 0,
+            "totalSteps" : 551
+         },
+         "maxPoints" : 5998,
+         "maxScoringPoints" : 3603,
+         "noCmod" : false,
+         "passingPoints" : 2395,
+         "points" : 3374,
          "usedCmod" : false
       },
       "aa85830042938025" : {
@@ -6867,6 +6921,7 @@
       "/Songs/ITL Online 2026/[11] Cage the Rage (SX) [mdx]/" : "76a7a64cebb363e3",
       "/Songs/ITL Online 2026/[11] Can't Find The Words (SH) [altic]/" : "37402b939b69c04e",
       "/Songs/ITL Online 2026/[11] Cherry Pop (SX) [Madkurre]/" : "a13f2af52160b9b4",
+      "/Songs/ITL Online 2026/[11] Dependencia (SX) [Hubert]/" : "a9bc419389df4ca7",
       "/Songs/ITL Online 2026/[11] Echo (SX) [R. Woods]/" : "f3c1a2e0634eb387",
       "/Songs/ITL Online 2026/[11] Explosive Engineering (SX) [wrsw]/" : "6a548f70711eda29",
       "/Songs/ITL Online 2026/[11] Eyes On The Stars (SX) [Kerpa]/" : "b89fe4586f8c2d73",
@@ -6908,6 +6963,7 @@
       "/Songs/ITL Online 2026/[11] ZZuck ZZuck GRoove (SX) [Hunter]/" : "572642ecc647ceac",
       "/Songs/ITL Online 2026/[11] f0rbiidden l0ve$tory (SX) [@@]/" : "8da25eaf1df5e99b",
       "/Songs/ITL Online 2026/[11] saving flowers (with Rina Sawayama) (SX) [Ritz]/" : "5079e735fb508098",
+      "/Songs/ITL Online 2026/[12] A Is For Action (SX) [mdx]/" : "74e1a81e290603fd",
       "/Songs/ITL Online 2026/[12] Darkside (SH) [ghostwriter]/" : "b8ef4218002520e5",
       "/Songs/ITL Online 2026/[12] Drinksu Drinksu Drinksu (SX) [DDDAAA]/" : "1a36bd259f94e20b",
       "/Songs/ITL Online 2026/[12] I GOT THE FEELIN (SX) [Panko]/" : "3985ed1ef8e22dcd",
