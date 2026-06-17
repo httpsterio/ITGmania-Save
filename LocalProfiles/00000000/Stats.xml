@@ -16,7 +16,7 @@
 <LastDifficulty>Challenge</LastDifficulty>
 <LastCourseDifficulty>Medium</LastCourseDifficulty>
 <LastStepsType>dance-single</LastStepsType>
-<Song Dir='Songs/ITL Online 2026/[13] Stuff It! (SX) [RakkiiCB]/'/>
+<Song Dir='Songs/ITL Online 2026/[12] Bump (SX) [dimo]/'/>
 <Course Path='Courses/Tampere 10th Dan.crs'/>
 <CurrentCombo>0</CurrentCombo>
 <TotalSessions>117</TotalSessions>
@@ -74634,8 +74634,8 @@
 <Song Dir='Songs/ITL Online 2026/[12] Bump (SX) [dimo]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>3</NumTimesPlayed>
-<LastPlayed>2026-06-10</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2026-06-17</LastPlayed>
 <HighGrade>Tier10</HighGrade>
 <HighScore>
 <Name>HTTP</Name>

@@ -18,7 +18,7 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>432</TotalSessions>
+<TotalSessions>433</TotalSessions>
 <TotalSessionSeconds>217892</TotalSessionSeconds>
 <TotalGameplaySeconds>126488</TotalGameplaySeconds>
 <TotalCaloriesBurned>41913.996094</TotalCaloriesBurned>
@@ -49854,8 +49854,8 @@
 <Song Dir='Songs/ITL Online 2026/[12] Bump (SX) [dimo]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>3</NumTimesPlayed>
-<LastPlayed>2026-06-10</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2026-06-17</LastPlayed>
 <HighGrade>Tier10</HighGrade>
 <HighScore>
 <Name>HTTP</Name>
