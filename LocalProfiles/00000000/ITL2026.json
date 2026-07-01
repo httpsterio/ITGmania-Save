@@ -5319,6 +5319,33 @@
          "points" : 3093,
          "usedCmod" : false
       },
+      "b9ade845d3eb09df" : {
+         "clearType" : 1,
+         "date" : "2026-06-30",
+         "ex" : 7234.9999999999991,
+         "judgments" : {
+            "Holds" : 53,
+            "Mines" : 0,
+            "Miss" : 32,
+            "Rolls" : 2,
+            "W0" : 310,
+            "W1" : 127,
+            "W2" : 214,
+            "W3" : 107,
+            "W4" : 2,
+            "W5" : 3,
+            "totalHolds" : 57,
+            "totalMines" : 5,
+            "totalRolls" : 2,
+            "totalSteps" : 795
+         },
+         "maxPoints" : 7397,
+         "maxScoringPoints" : 4290,
+         "noCmod" : false,
+         "passingPoints" : 3107,
+         "points" : 3441,
+         "usedCmod" : false
+      },
       "ba088d9d77c45936" : {
          "clearType" : 1,
          "date" : "2026-03-31",
@@ -7308,6 +7335,7 @@
       "/Songs/ITL Online 2026/[12] automate (SX) [Talkion]/" : "3b1a16332db6388f",
       "/Songs/ITL Online 2026/[12] fairly brave (SH) [sangyule]/" : "304174e12b8f7534",
       "/Songs/ITL Online 2026/[12] l'amour d'amour (SX) [vultureeeeee]/" : "2f4cc2befd847efd",
+      "/Songs/ITL Online 2026/[13] La Priere (SX) [CopperPuppy]/" : "b9ade845d3eb09df",
       "/Songs/ITL Online 2026/[13] [Mix] FREQUENCY VOID (SX) [Maxx]/" : "193f4c2e06a5d0bb",
       "/Songs/ITL Online 2026/[13] shake!the!city! (SX) [Kigha]/" : "34d9dc31f7ddfae9"
    },
